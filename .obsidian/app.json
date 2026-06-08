@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "files",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_recipes",
+  "openBehavior": "file:README"
+}

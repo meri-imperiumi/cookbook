@@ -1,0 +1,1 @@
+:is(.bases-no-toolbar, .bases-embed[alt~="no-toolbar"]) .bases-toolbar-item { display: none; } 

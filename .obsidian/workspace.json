@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "54aa877d6b1484cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e4daf63c5fc67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a71c9385fc761dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "c15ba2bebdbced7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "045083b4ca654262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_recipes/oatmeal.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "oatmeal"
+            }
+          },
+          {
+            "id": "b068e5c99ca2f3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_recipes/overnight-oats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overnight-oats"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c380662701d9d540",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e712d33bde5bac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d2996e476c43c85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "291ea268eb526ba5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "14e0cfa8eb2a68b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab4a46096b23f4c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "daacfc791ae411d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a5741da779bb5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_recipes/ginger-beer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ginger-beer"
+            }
+          },
+          {
+            "id": "ea22ceecc8739df9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_recipes/ginger-beer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ginger-beer"
+            }
+          },
+          {
+            "id": "beca9077fc7cfc22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e8f353f0f4633c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0980d1e5e0669acd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_recipes/ginger-beer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ginger-beer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "c15ba2bebdbced7f",
+  "lastOpenFiles": [
+    "Ruokareseptit.base",
+    "_recipes/shakshuka.md",
+    "_recipes/oven-feta-pasta.md",
+    "_recipes/tofu-fried-rice.md",
+    "_recipes/feta-spinatch-borek.md",
+    "_recipes/bread-casserole.md",
+    "_recipes/shahi-paneer.md",
+    "_recipes/tofu-curry.md",
+    "_recipes/mushroom-roll.md",
+    "README.md",
+    "_recipes/spinatch-pancakes.md",
+    "_recipes/mushroom-sherry-sauce.md",
+    "_recipes/cinnamon-rolls.md",
+    "Jälkiruoat.base",
+    "_recipes/overnight-oats.md",
+    "files/overnight-oats.png",
+    "_recipes/carbonara.md",
+    "files/carbonara.png",
+    "_recipes/paprika-hummus.md",
+    "_recipes/toffee.md",
+    "_recipes/sauteed-tvp.md",
+    "_recipes/dragon-noodles.md",
+    "_recipes/aubergine-soy-fry.md",
+    "_recipes/syrniki.md",
+    "_recipes/caramelized-apples.md",
+    "_recipes/thursday-pancake.md",
+    "_recipes/oat-cookies.md",
+    "_recipes/mocha-bites.md",
+    "_recipes/carrot-cake.md",
+    "files/sriracha-hummus.png",
+    "files/paprika-hummus.png",
+    "files/obazda.png",
+    "files/feta-nut-spread.png",
+    "files/mojo-rojo.png",
+    "files/cashew-spread.png",
+    "files/peanut-butter-lentils.png",
+    "_templates",
+    "files/cinnamon-rolls.png"
+  ]
+}
