@@ -5,6 +5,9 @@ cssclasses:
 ---
 - [Ruokareseptit](Ruokareseptit.base)
 - [Jälkiruoat](Jälkiruoat.base)
+
+Keittokirja sisältää reseptejä joita käytämme Lille Ø:n merimatkoilla. Reseptit ovat pääasiassa kasvispohjaisia ja perustuvat pitkään säilyviin ja helposti veneessä pidettäviin raaka-aineisiin.
+
 ## Perusruoat
 
 Mitä ruokaa tekisi tänään? Tässä reseptejä joihin veneessä pitäisi aina olla ainekset. Nämä eivät vaadi esivalmisteluja:

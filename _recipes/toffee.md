@@ -4,7 +4,7 @@ category: pan-fried
 tags:
   - dessert
   - staples
-title: toffee
+title: Toffee
 ---
 ![](../files/toffee.png)
 
