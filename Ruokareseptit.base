@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Reseptit
+    filters:
+      and:
+        - file.folder == "_recipes"
+        - category != "ingredients"
+        - category != "drinks"
+        - '!file.tags.contains("dessert")'
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - title
+    image: note.cover
+    cardSize: 140
+    imageAspectRatio: 0.6
