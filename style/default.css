@@ -128,6 +128,9 @@ main {
 main > * {
     grid-column: 2;
 }
+main h1 {
+    line-height: 1.2em;
+}
 main ul.cards {
     margin: 0;
     margin-bottom: 3em;
@@ -135,7 +138,7 @@ main ul.cards {
 }
 main ul.cards li {
     display: inline-block;
-    width: 21ch;
+    width: 19ch;
     height: 8ch;
     margin-right: 1em;
     margin-bottom: 1em;
