@@ -36,6 +36,7 @@ header h1 {
     white-space: nowrap;
     justify-self: start;
     align-self: center;
+    font-size: 22pt;
 }
 header h1 a {
     text-decoration: none;
