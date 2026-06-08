@@ -1,0 +1,9 @@
+        <li>
+            <a href="{{ site.baseurl }}{{ recipe.url }}">
+                <h3>{{ recipe.title }}</h3>
+                {% if recipe.cover %}
+                    <img src="{{ recipe.cover }}" alt="{{ recipe.title }}">
+                {% endif %}
+            </a>
+        </li>
+

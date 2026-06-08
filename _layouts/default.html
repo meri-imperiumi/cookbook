@@ -1,0 +1,43 @@
+---
+page_class: 'index'
+---
+<!doctype html>
+<html lang="{{ site.language }}">
+    <head>
+        <title>{{ page.title }} - {{ site.name }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#003247">
+        <link rel="stylesheet" href="{{site.baseurl}}/style/default.css">
+    </head>
+    <body class="{{ layout.page_class }}">
+        <header>
+            <nav>
+                <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/style/favicon.png" alt="Meri-Imperiumi" /></a>
+                <div>
+                    <ul id="menu">
+                        <li><a href="{{ site.baseurl }}/food/">Ruoka</a></li>
+                        <li><a href="{{ site.baseurl }}/desserts/">Jälkiruoka</a></li>
+                    </ul>
+                    <input type="checkbox" id="hamburger-state" class="burger">
+                    <label id="hamburger" for="hamburger-state">
+                        <nav id="sidebar">
+                            <h2>{{ site.title }}</h2>
+                            <ul>
+                                <li><h3 class="meta">Reseptit</h3>
+                                    <ul>
+                                        <li><a href="{{ site.baseurl }}/food/">Ruoka</a></li>
+                                        <li><a href="{{ site.baseurl }}/desserts/">Jälkiruoka</a></li>
+                                    </ul>
+                            </ul>
+                        </nav>
+                    </label>
+                    <div id="overlay"></div>
+                </div>
+            </nav>
+        </header>
+        <main>
+        {{ content }}
+        </main>
+    </body>
+</html>

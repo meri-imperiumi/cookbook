@@ -1,0 +1,23 @@
+title: Meri-Imperiumin keittokirja
+name: Keittokirja
+author: meri-imperiumi
+language: fi
+defaults:
+    - scope:
+          path: ""
+          type: recipes
+      values:
+          layout: recipe
+collections:
+    recipes:
+        output: true
+        permalink: /:name/
+        sort_by: category
+exclude:
+    - .github
+    - .gitignore
+    - .Gemfile
+    - README.md
+    - "*.base"
+    - .obsidian
+    - _templates
