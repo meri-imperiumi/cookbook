@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Reseptit
 ---
 <h1>{{ site.title }}</h1>
 <p>
 Keittokirja sisältää reseptejä joita käytämme <a href="https://lille-oe.de">Lille Ø:n merimatkoilla</a>. Reseptit ovat pääasiassa kasvispohjaisia ja perustuvat pitkään säilyviin ja helposti veneessä pidettäviin raaka-aineisiin.
 </p>
 <h2>Joitain reseptejä</h2>
-{% assign frontpage_recipes = site.recipes | where_ext: "category != 'ingredients'" | sample: 6 %}
+{% assign frontpage_recipes = site.recipes | where_exp: "recipe", "recipe.category != 'ingredients'" | sample: 6 %}
 <ul class="cards">
 {% for recipe in frontpage_recipes %}
     {% include recipe_card.html %}
