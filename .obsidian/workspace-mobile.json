@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_recipes/aglio-e-olio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "aglio-e-olio"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "fd3ceeedcc2737d6",
   "lastOpenFiles": [
+    "_site/files/signal-2026-06-08-12-11-33-897.jpg",
+    "files/signal-2026-06-08-12-11-33-897.jpg",
+    "README.md",
     "_recipes/rajma-masala.md",
     "Ruokareseptit.base",
-    "README.md",
     "files/overnight-oats.png",
     "_recipes/carbonara.md",
     "files/carbonara.png",

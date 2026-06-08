@@ -226,6 +226,14 @@
   },
   "active": "c15ba2bebdbced7f",
   "lastOpenFiles": [
+    "_site/files/signal-2026-06-08-12-13-50-829.jpg",
+    "files/signal-2026-06-08-12-13-50-829.jpg",
+    "_site/files/signal-2026-06-08-12-12-24-808.jpg",
+    "files/signal-2026-06-08-12-12-24-808.jpg",
+    "_site/files/signal-2026-06-08-12-11-33-897.jpg",
+    "files/signal-2026-06-08-12-11-33-897.jpg",
+    "_site/CNAME",
+    "CNAME",
     "_templates/recipe.md",
     "Ruokareseptit.base",
     "README.md",
@@ -238,16 +246,9 @@
     "_site/desserts",
     "desserts/index.html",
     "_includes/recipe_card.html",
-    "_includes",
     "_site/style/favicon.png",
     "style/favicon.png",
-    "_site/style/NotesESA.woff",
     "_site/files/tortilla-espanola.png",
-    "_site/files/tofu-fried-rice.png",
-    "_site/files/tofu-curry.png",
-    "_site/files/toffee.png",
-    "_site/files/thursday-pancake.png",
-    "_site/files/syrniki.png",
     "_recipes/shakshuka.md",
     "_recipes/oven-feta-pasta.md",
     "_recipes/tofu-fried-rice.md",
@@ -270,7 +271,6 @@
     "_recipes/caramelized-apples.md",
     "_recipes/thursday-pancake.md",
     "_recipes/oat-cookies.md",
-    "_recipes/mocha-bites.md",
-    "_recipes/carrot-cake.md"
+    "_recipes/mocha-bites.md"
   ]
 }
