@@ -1,9 +1,9 @@
 ---
-cover: ../files/karelian-pasties.png
+cover: ../files/karelian-pasties.jpg
 category: bread
 title: Karjalanpiirakat
 ---
-![](../files/karelian-pasties.png)
+![](../files/karelian-pasties.jpg)
 
 Kuoritaikina:  
 - [ ] 1½ dl vettä  

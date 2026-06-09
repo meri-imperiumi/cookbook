@@ -1,9 +1,9 @@
 ---
-cover: ../files/caesar-salad.png
+cover: ../files/caesar-salad.jpg
 category: salads
 title: Caesar-salaatti
 ---
- ![offset\_355676.jpg](../files/caesar-salad.png)
+ ![](../files/caesar-salad.jpg)
 
 - [ ] 2 kynttä valkosipulia  
 - [ ] 1 tl suolaa  

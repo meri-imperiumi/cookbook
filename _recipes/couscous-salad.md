@@ -1,9 +1,9 @@
 ---
-cover: ../files/couscous-salad.png
+cover: ../files/couscous-salad.jpg
 category: salads
 title: Miisan cous cous salaatti
 ---
- ![offset\_355676.jpg](../files/couscous-salad.png)
+ ![](../files/couscous-salad.jpg)
 
 - [ ] 2 dl kasvislientä  
 - [ ] 1 ¾ dl cous cousia 

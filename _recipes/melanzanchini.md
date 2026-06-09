@@ -1,9 +1,9 @@
 ---
-cover: ../files/bracioles.png
+cover: ../files/melanzanchini.jpg
 category: patties
 title: Melanzanchini
 ---
-![](../files/bracioles.png)
+![](../files/melanzanchini.jpg)
 
 - [ ] 1 munakoiso
 - [ ] 200-300g kuivahtanutta leipää

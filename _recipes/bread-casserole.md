@@ -1,9 +1,9 @@
 ---
 category: casseroles
 title: Leipäpaistos
-cover: ../files/bread-casserole.png
+cover: ../files/bread-casserole.jpg
 ---
-![](../files/bread-casserole.png)
+![](../files/bread-casserole.jpg)
 
 - [ ] Kuiva leipä  
 - [ ] Sipuli  

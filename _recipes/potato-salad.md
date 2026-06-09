@@ -1,9 +1,9 @@
 ---
-cover: ../files/potato-salad.png
+cover: ../files/potato-salad.jpg
 title: Perunasalaatti
 category: salads
 ---
-![](../files/potato-salad.png)
+![](../files/potato-salad.jpg)
 
 - [ ] 500 g perunaa  
 - [ ] 1 sipuli

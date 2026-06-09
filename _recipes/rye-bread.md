@@ -1,11 +1,11 @@
 ---
-cover: ../files/rye-bread.png
+cover: ../files/rye-bread.jpg
 category: bread
 title: Ruisleivät
 tags:
   - staples
 ---
- ![](../files/rye-bread.png)
+ ![](../files/rye-bread.jpg)
 
 - [ ] 150 g [ruisjuurta](sourdough.md) (aktiivista)
 - [ ] 5 dl (500g) vettä  
