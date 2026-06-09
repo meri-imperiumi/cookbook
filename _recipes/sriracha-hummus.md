@@ -7,7 +7,7 @@ tags:
 ---
  ![](../files/sriracha-hummus.png)
 
-- [ ] 1 ½ dl kuivia kikherneitä TAI  3 dl keiteitettyjä  
+- [ ] 1 ½ dl kuivattuja kikherneitä TAI  3 dl keiteitettyjä  
 - [ ] 2 rkl oliiviöljyä  
 - [ ] 4 rkl sitruunamehua  
 - [ ] 2 rkl tahinia  

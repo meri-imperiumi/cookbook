@@ -13,7 +13,7 @@ tags:
 - [ ] 1 rkl tomaattipyrettä  
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 2 kynttä valkosipulia
-- [ ] 1 dl  kuivattua kanttarellia  
+- [ ] 1 dl kuivattuja sieniä
 - [ ] 1 tl balsamicoa  
 - [ ] 1 dl vettä  
 - [ ] tuoretta basilikaa  

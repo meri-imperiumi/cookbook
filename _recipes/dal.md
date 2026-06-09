@@ -15,7 +15,7 @@ tags:
 - [ ] 3.5dl punaisia linssejä  
 - [ ] 1 tl curryjauhetta
 - [ ] 1 tl kuminaa  
-- [ ] 1 tl korianterin siemeniä  
+- [ ] 1 tl korianteria
 - [ ] ½ tl garam masalaa  
 - [ ] ½ tl suolaa  
 - [ ] 400g tomaattimurskaa

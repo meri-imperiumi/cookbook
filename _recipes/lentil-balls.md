@@ -10,7 +10,7 @@ tags:
 - [ ] 2.5dl punaisia linssejä  
 - [ ] 1 sipuli
 - [ ] 1 munaa  
-- [ ] 1 rkl kuivattua persiljaa  
+- [ ] 1 rkl persiljaa  
 - [ ] 1 tl chilijauhetta  
 - [ ] 2 tl valkosipulijauhetta  
 - [ ] ½ tl chilihiutaleita  

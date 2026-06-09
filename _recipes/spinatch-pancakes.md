@@ -15,6 +15,7 @@ tags:
 - [ ] 3 dl vehnäjauhoja  
 - [ ] ½ dl voita (sulatettuna)
 - [ ] ½ tl suolaa
+- [ ] puolukkahilloa
 
 1. Riko kananmunien rakenne  
 2. Lisää kylmä vesi ja sekoita maitojauhe joukkoon.  

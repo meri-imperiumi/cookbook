@@ -7,7 +7,7 @@ title: Peruna-pecorinopihvi
 
 - [ ] 5–6 perunaa (keitettyä)  
 - [ ] 50–100 g pecorinoa  
-- [ ] 1tl tuoretta persiljaa  
+- [ ] 1tl persiljaa  
 - [ ] 1tl tuoretta basilikaa  
 - [ ] 2 kananmunaa  
 - [ ] öljyä (paistamiseen)

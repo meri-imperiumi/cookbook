@@ -7,7 +7,7 @@ tags:
 ---
  ![](../files/paprika-hummus.png)
 
-- [ ] 1 dl kuivia kikherneitä TAI  2 dl keitetettyjä  
+- [ ] 1 dl kuivattuja kikherneitä TAI  2 dl keitetettyjä  
 - [ ] 2 rkl oliiviöljyä  
 - [ ] 1 rkl vettä  
 - [ ] 1/2 rkl sitruunamehua  

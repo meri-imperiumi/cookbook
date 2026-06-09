@@ -11,7 +11,7 @@ tags:
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 sipuli
 - [ ] 2 kynttä valkosipulia 
-- [ ] 2.5dl kuivia kikherneitä (keitettynä)
+- [ ] 2.5dl kuivattuja kikherneitä (keitettynä)
 - [ ] 200g tomaattimurskaa
 - [ ] 1dl vettä  
 - [ ] 2 tl curryjauhetta  
