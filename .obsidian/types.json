@@ -1,0 +1,9 @@
+{
+    "types": {
+        "title": "text",
+        "category": "text",
+        "tags": "tags",
+        "cover": "text",
+        "aliases": "aliases"
+    }
+}
