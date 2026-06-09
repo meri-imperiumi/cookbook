@@ -1,9 +1,9 @@
 ---
-cover: ../files/garlic-naan.png
+cover: ../files/garlic-naan.jpg
 category: bread
 title: Valkosipulinaan
 ---
- ![](../files/garlic-naan.png)
+ ![](../files/garlic-naan.jpg)
 
 - [ ] 4 dl vehnäjauhoja (puolikarkeita)
 - [ ] ½ tl	kuivahiivaa  

@@ -1,9 +1,9 @@
 ---
-cover: ../files/oatmeal.png
+cover: ../files/oatmeal-without-milk.png
 category: porridges
 title: Kaurapuuro veteen
 ---
- ![offset\_355676.jpg](../files/oatmeal.png)
+ ![offset\_355676.jpg](../files/oatmeal-without-milk.png)
 
 - [ ] 5 dl vettä  
 - [ ] 2 dl kaurahiutaleita  

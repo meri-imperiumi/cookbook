@@ -1,12 +1,12 @@
 ---
-cover: ../files/pizza-on-pan.png
+cover: ../files/pizza-on-pan.jpg
 category: pizza
 title: Pitsa pannulla
 tags:
   - staples
   - elaborate
 ---
-![](../files/pizza-on-pan.png)
+![](../files/pizza-on-pan.jpg)
 
 Taikina:  
 - [ ] 3.5 dl vehnäjauhoja  
