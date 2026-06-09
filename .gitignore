@@ -1,10 +1,13 @@
 .stfolder/
 .stversions/
+.trash/
 .DS_Store
+.jekyll-cache/
 _site/
 Gemfile.lock
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+*.sync-conflict-*
 node_modules/
 package-lock.json
 package.json
