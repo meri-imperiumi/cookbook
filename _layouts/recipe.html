@@ -2,6 +2,16 @@
 layout: default
 page_class: recipe
 ---
-<h1>{{ page.title }}</h1>
-{{ content | replace: '.md', '/' | replace: 'a href="', 'a href="/' }}
+<article>
+    <div class="tag-pills">
+        {% if page.tags contains 'staples' %}
+        <span>perus</span>
+        {% endif %}
+        {% if page.tags contains 'storm' %}
+        <span>myrsky</span>
+        {% endif %}
+    </div>
+    <h1>{{ page.title }}</h1>
+    {{ content | replace: '.md', '/' | replace: 'a href="', 'a href="/' }}
+</article>
 <hr />
