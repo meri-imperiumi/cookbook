@@ -6,6 +6,15 @@ title: Reseptit
 <p>
 Keittokirja sisältää reseptejä joita käytämme <a href="https://lille-oe.de">Lille Ø:n merimatkoilla</a>. Reseptit ovat pääasiassa kasvispohjaisia ja perustuvat pitkään säilyviin ja helposti veneessä pidettäviin raaka-aineisiin.
 </p>
+<div id="thursday">
+    <h2>Torstain perinteet</h2>
+    {% assign thursday_recipes = site.recipes | where_exp: "recipe", "recipe.tags contains 'thursday'" %}
+    <ul class="cards">
+    {% for recipe in thursday_recipes %}
+        {% include recipe_card.html %}
+    {% endfor %}
+    </ul>
+</div>
 <h2>Joitain reseptejä</h2>
 {% assign frontpage_recipes = site.recipes | where_exp: "recipe", "recipe.category != 'ingredients'" | sample: 6 %}
 <ul class="cards">
@@ -14,3 +23,9 @@ Keittokirja sisältää reseptejä joita käytämme <a href="https://lille-oe.de
 {% endfor %}
 </ul>
 <p class="more"><a href="{{ site.baseurl }}/food/">Lisää</a></p>
+<script type="application/javascript">
+    const thursdayContainer = document.getElementById('thursday');
+    if (new Date().getDay() !== 4) {
+        thursdayContainer.style.display = 'none';
+    }
+</script>
