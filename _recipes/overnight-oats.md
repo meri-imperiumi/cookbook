@@ -9,6 +9,7 @@ tags:
 - [ ] 1dl kaurahiutaleita
 - [ ] 2dl vettä
 - [ ] 5ml suolaa
+- [ ] 1rkl hilloa tai maapähkinävoita
 
 1. Keitä vesi
 2. Laita kaurahiutaleet ja suola rasiaan

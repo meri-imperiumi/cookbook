@@ -3,6 +3,12 @@ condiments:
     used_in:
       - file: cashew-tomato-sauce.md
         amount: 1 tl
+  - name: hilloa
+    used_in:
+      - file: overnight-oats.md
+        amount: 1rkl
+      - file: pancakes.md
+        amount: ''
   - name: ketsuppia
     used_in:
       - file: macaroni-casserole.md

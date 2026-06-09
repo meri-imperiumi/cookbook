@@ -15,6 +15,7 @@ tags:
 - [ ] 2.5 dl vehnäjauhoja  
 - [ ] 1 rkl sokeria  
 - [ ] 1 tl suolaa
+- [ ] hilloa
 
 1. Vatkaa munien rakenne rikki kulhossa  
 2. Lisää kylmä vesi  
