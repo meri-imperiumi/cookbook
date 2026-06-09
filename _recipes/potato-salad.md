@@ -2,12 +2,15 @@
 cover: ../files/potato-salad.jpg
 title: Perunasalaatti
 category: salads
+tags:
+  - celebration
 ---
 ![](../files/potato-salad.jpg)
 
 - [ ] 500 g perunaa  
 - [ ] 1 sipuli
- - [ ] 150g maustekurkkua  
+- [ ] 150g maustekurkkua
+
 MAJONEESI:  
 - [ ] 1 kananmunan keltuaista
 - [ ] 2 ml suolaa  
@@ -22,7 +25,7 @@ ESIVALMISTELUT
 2. Anna perunoiden jäähtyä  
 
 MAJONEESI  
-1. Sekoita keltuainen, suola, valkopippur,i sinappi ja valkoviinietikka keskenään.  
+1. Sekoita keltuainen, suola, valkopippuri sinappi ja valkoviinietikka keskenään.  
 2. Vatkaa joukkoon öljy. Aloita öljyn lisääminen hyvin varovasti ja lisää loput öljystä vähän kerrallaan koko ajan vatkaten. Jos majoneesi on tymäkkää, notkistamiseen voi käyttää muutaman ruokalusikallisen lämmitettyä kädenlämpöistä vettä.  
 
 SALAATTI  
