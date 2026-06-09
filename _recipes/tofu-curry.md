@@ -4,6 +4,8 @@ category: curries
 title: Tofu curry
 tags:
   - staples
+aliases:
+  - tofu-cashew-curry
 ---
 ![](../files/tofu-curry.png)
 

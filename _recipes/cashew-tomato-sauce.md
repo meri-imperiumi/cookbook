@@ -4,6 +4,8 @@ category: pasta
 title: Cashew-tomaattipasta
 tags:
   - staples
+aliases:
+  - cashew-tomato-pasta
 ---
 ![](../files/cashew-tomato-sauce.png)
 

@@ -2,6 +2,9 @@
 cover: ../files/bracioles.png
 category: patties
 title: Peruna-pecorinopihvi
+aliases:
+  - potato-bracioles
+  - potato-parmesan-bracioles
 ---
 ![](../files/bracioles.png)
 

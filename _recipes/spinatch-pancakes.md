@@ -5,6 +5,9 @@ title: Pinaattiletut
 tags:
   - staples
   - elaborate
+aliases:
+  - spinach-pancakes-with-lingonberry-jam
+  - spinach-pancakes
 ---
 ![](../files/spinatch-pancakes.png)
 

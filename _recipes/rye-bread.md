@@ -4,6 +4,9 @@ category: bread
 title: Ruisleivät
 tags:
   - staples
+aliases:
+  - fresh-rye-sourdough-bread
+  - toasted-rye-bread-with-cheese
 ---
  ![](../files/rye-bread.jpg)
 

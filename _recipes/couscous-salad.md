@@ -2,6 +2,11 @@
 cover: ../files/couscous-salad.jpg
 category: salads
 title: Miisan cous cous salaatti
+aliases:
+  - cous-cous-salad
+  - miisas-cous-cous-salad
+  - miisas-couscous-salad
+  - avocado-and-couscous-salad
 ---
  ![](../files/couscous-salad.jpg)
 

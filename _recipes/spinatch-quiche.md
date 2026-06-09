@@ -4,6 +4,12 @@ category: pastries
 title: Feta-pinatti quiche
 tags:
   - elaborate
+aliases:
+  - spinach-quiche
+  - feta-spinach-quiche
+  - spinach-and-forest-mushroom-quiche
+  - spinach-mushroom-quiche
+  - spinach-chanterelle-quiche
 ---
 ![](../files/spinatch-quiche.png)
 

@@ -4,6 +4,8 @@ category: pasta
 title: Bolognese
 tags:
   - staples
+aliases:
+  - spaghetti-bolognese
 ---
 ![](../files/bolognese.png)
 

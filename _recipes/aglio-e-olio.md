@@ -4,6 +4,10 @@ category: pasta
 title: Aglio e olio
 tags:
   - staples
+aliases:
+  - spaghetti-aglio-e-olio
+  - spaghetti-aglio-olio
+  - spagetti-aglio-e-olio
 ---
 ![](../files/aglio-e-olio.png)
 

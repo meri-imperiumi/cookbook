@@ -5,6 +5,8 @@ title: Makaronilaatikko
 tags:
   - staples
   - elaborate
+aliases:
+  - finnish-macaroni-casserole
 ---
 ![](../files/macaroni-casserole.png)
 

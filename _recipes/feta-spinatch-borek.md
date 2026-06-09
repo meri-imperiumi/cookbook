@@ -2,6 +2,9 @@
 cover: ../files/feta-spinatch-borek.png
 category: pastries
 title: Feta-pinaatti börek
+aliases:
+  - cheese-and-spinach-borek
+  - feta-spinach-borek
 ---
 ![](../files/feta-spinatch-borek.png)
 

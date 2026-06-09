@@ -6,6 +6,9 @@ tags:
   - onepot
   - staples
   - storm
+aliases:
+  - chanterelle-risotto
+  - forest-mushroom-risotto
 ---
 ![](../files/mushroom-risotto.png)
 

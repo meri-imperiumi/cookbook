@@ -4,6 +4,9 @@ category: pasta
 title: Pasta al pomodoro
 tags:
   - staples
+aliases:
+  - spaghetti-with-tomato-sauce
+  - spaghetti-alla-pomodoro
 ---
 ![](../files/pasta-al-pomodoro.png)
 

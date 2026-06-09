@@ -2,6 +2,8 @@
 cover: ../files/mushroom-roll.png
 category: pastries
 title: Sienipuusti
+aliases:
+  - chanterelle-rolls
 ---
 ![](../files/mushroom-roll.png)
 

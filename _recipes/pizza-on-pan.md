@@ -5,6 +5,10 @@ title: Pitsa pannulla
 tags:
   - staples
   - elaborate
+aliases:
+  - pizza
+  - stovetop-pizza-with-olives
+  - stovetop-pizza
 ---
 ![](../files/pizza-on-pan.jpg)
 

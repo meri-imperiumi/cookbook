@@ -2,6 +2,7 @@
 cover: ../files/aubergine-soy-fry.png
 category: pan-fried
 title: Munakoiso soijakastikkeessa
+aliases:
 ---
  ![](../files/aubergine-soy-fry.png)
 

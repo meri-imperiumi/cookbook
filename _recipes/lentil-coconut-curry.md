@@ -6,6 +6,11 @@ tags:
   - staples
   - onepot
   - storm
+aliases:
+  - coconut-curry-lentil-soup
+  - lentil-coconut-soup
+  - lentil-curry-and-rice
+  - coconut-lentil-curry
 ---
 ![](../files/lentil-coconut-curry.png)
 

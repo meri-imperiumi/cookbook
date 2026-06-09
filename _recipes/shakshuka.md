@@ -4,6 +4,8 @@ category: stews
 title: Shakshuka
 tags:
   - onepot
+aliases:
+  - shaksuka
 ---
  ![offset\_355676.jpg](../files/shakshuka.png)
 

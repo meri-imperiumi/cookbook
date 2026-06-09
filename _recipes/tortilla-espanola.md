@@ -5,6 +5,8 @@ title: Tortilla Española
 tags:
   - elaborate
   - onepot
+aliases:
+  - spanish-omelette
 ---
 ![](../files/tortilla-espanola.png)
 

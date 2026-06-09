@@ -2,6 +2,8 @@
 cover: ../files/flammkuchen.png
 title: Flammkuchen
 category: pizza
+aliases:
+  - flammkuchen-with-sun-dried-tomatoes-and-onions
 ---
  ![](../files/flammkuchen.png)
 

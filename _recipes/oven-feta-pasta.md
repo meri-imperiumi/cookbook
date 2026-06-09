@@ -5,6 +5,11 @@ title: Uunifetapasta
 tags:
   - storm
   - staples
+aliases:
+  - feta-pasta
+  - tomato-feta-pasta
+  - tomato-feta-oven-pasta
+  - feta-oven-pasta
 ---
 ![](../files/oven-feta-pasta.png)
 

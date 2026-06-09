@@ -6,6 +6,9 @@ tags:
   - elaborate
   - staples
   - dessert
+aliases:
+  - crepes
+  - crepes-with-vegetables
 ---
 ![](../files/pancakes.png)
 

@@ -4,6 +4,8 @@ category: pasta
 tags:
   - staples
 cover: ../files/carbonara.png
+aliases:
+  - spaghetti-carbonara
 ---
 ![](../files/carbonara.png)
 - [ ] 4 munaa

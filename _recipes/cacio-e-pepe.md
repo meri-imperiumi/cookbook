@@ -2,6 +2,8 @@
 cover: ../files/cacio-e-pepe.png
 title: cacio e pepe
 category: pasta
+aliases:
+  - pasta-with-cheese-sauce
 ---
 ![](../files/cacio-e-pepe.png)
 

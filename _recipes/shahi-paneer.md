@@ -5,6 +5,9 @@ title: Shahi paneer
 tags:
   - staples
   - elaborate
+aliases:
+  - paneer-coconut-curry
+  - paneer-curry
 ---
 ![](../files/shahi-paneer.png)
 

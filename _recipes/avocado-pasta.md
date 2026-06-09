@@ -2,6 +2,8 @@
 cover: ../files/avocado-pasta.png
 title: Avokadopasta
 category: pasta
+aliases:
+  - spaghetti-with-avocado-sauce
 ---
 ![](../files/avocado-pasta.png)
 
