@@ -144,6 +144,7 @@ main ul.cards li {
     margin-right: 1em;
     margin-bottom: 1em;
     list-style: none;
+    position: relative;
 }
 main ul.cards li a {
     text-decoration: none;
@@ -193,6 +194,26 @@ body.recipe .task-list-item input {
 }
 main table th, main table td {
     text-align: left;
+}
+main .tag-pills {
+    position: absolute;
+    bottom: -4ch;
+    right: 0px;
+}
+main .tag-pills > * {
+    display: inline-block;
+    width: 40px;
+    background-color: #00ae9d;
+    color: #ffffff;
+    font-family: NotesESA, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 6px;
+    padding: 0px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-transform: lowercase;
 }
 main hr {
     height: 80px;
