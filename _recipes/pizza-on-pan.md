@@ -9,21 +9,21 @@ tags:
 ![](../files/pizza-on-pan.png)
 
 Taikina:  
-- [ ] 3 1/2 dl vehnäjauhoja  
+- [ ] 3.5 dl vehnäjauhoja  
 - [ ] 1 tl leivinjauhetta  
-- [ ] 1/2 tl suolaa  
-- [ ] 1 1/2 dl vettä  
+- [ ] 0.5 tl suolaa  
+- [ ] 1.5 dl vettä  
 - [ ] 3 rkl oliiviöljyä
 
 Kastike:  
 - [ ] 1 Sipuli  
 - [ ] 4 kynttä valkosipulia  
 - [ ] 70g tomaattipyrettä   
-- [ ] 1 tölkki tomaattimurskaa   
-- [ ] 1 tl oregano  
-- [ ] 1 tl timjami  
-- [ ] 1 tl basilika  
-- [ ] 1 laakerinlehti  
+- [ ] 400g tomaattimurskaa   
+- [ ] 1 tl oreganoa  
+- [ ] 1 tl timjamia
+- [ ] 1 tl basilikaa  
+- [ ] laakerinlehti  
 - [ ] 1 rkl soijakastiketta   
 - [ ] ½ dl valkoviiniä
 

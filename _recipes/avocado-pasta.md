@@ -6,11 +6,11 @@ category: pasta
 ![](../files/avocado-pasta.png)
 
 - [ ] 2 annosta spagettia  
-- [ ] 1 iso avokado  
+- [ ] 1 avokado (iso)
 - [ ] 2 kynttä valkosipulia  
 - [ ] ½ dl pähkinöitä  
 - [ ] 3 rkl oliiviöljyä  
-- [ ] 1 1/2d raastettua parmesania  
+- [ ] 1.5 dl parmesania (raastettua)
 - [ ] 2 tl basilikaa  
 - [ ] 1 rkl sitruunamehua  
 - [ ] ½ tl suolaa  

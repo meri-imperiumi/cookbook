@@ -5,12 +5,12 @@ category: casseroles
 ---
  ![](../files/imam-bayildi.png)
 
-- [ ] 1 isohko munakoiso  
-- [ ] 1 sipuli pilkottuna  
+- [ ] 1 munakoiso (isohko)
+- [ ] 1 sipuli  
 - [ ] 1dl oliiviöljyä  
-- [ ] 2 kynttä valkosipulia murskattuna  
+- [ ] 2 kynttä valkosipulia 
 - [ ] 400g tomaattimurskaa  
-- [ ] 1rkl persijaa  
+- [ ] 1rkl persiljaa  
 - [ ] 5ml minttua  
 - [ ] 2ml chilijauhetta  
 - [ ] 2ml sokeria  

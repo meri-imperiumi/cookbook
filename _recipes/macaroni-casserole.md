@@ -10,18 +10,19 @@ tags:
 
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 sipuli  
-- [ ] 1 porkkana  
-- [ ] 1 tl currya  
+- [ ] 1 porkkanaa 
+- [ ] 1 tl curryjauhetta  
 - [ ] 1 tl paprikajauhetta  
 - [ ] ¾ tl suolaa  
 - [ ] ½ tl valkopippuria  
 - [ ] 150 ml soijarouhetta  
 - [ ] 2 rkl soijakastiketta  
-- [ ] 150 ml kasvilientä   
+- [ ] 150 ml kasvislientä   
 - [ ] 5 dl maitoa  
 - [ ] 2 munaa (3 korviketta)  
 - [ ] 3 dl makaronia  
-- [ ] raastettua emmentalia
+- [ ] juustoraastetta
+- [ ] Ketsuppia
 
 1. Lämmitä uuni 200 asteeseen  
 2. Lämmitä keskilämmöllä isolla pannulla oliiviöljyä. Lisää pilkottu sipuli ja pilkotut porkkanat ja anna hautua noin 5 minuuttia kunnes porkkanat ja sipuli alkavat pehmetä.

@@ -9,11 +9,11 @@ tags:
 Okonomiyaki:  
 - [ ] 4dl sienien liotusvettä  
 - [ ] 4dl vehnäjauhoja  
-- [ ] 2 raastettua porkkanaa  
-- [ ] 5dl raastettua kaalia  
+- [ ] 2 porkkanaa (raastettua)
+- [ ] 5dl kaalia (raastettua)
 - [ ] 5 kananmunaa  
-- [ ] 1 pilkottu sipuli  
-- [ ] Aurinkokuivattuja tomaatteja  
+- [ ] 1 sipuli  
+- [ ] 1dl aurinkokuivattuja tomaatteja  
 - [ ] Sesamöljyä
 
 Okonomiyaki-kastike:  

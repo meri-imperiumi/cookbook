@@ -9,13 +9,13 @@ tags:
  ![offset\_355676.jpg](../files/chana-masala.png)
 
 - [ ] 1 rkl oliiviöljyä  
-- [ ] 1 sipuli, pilkottuna  
-- [ ] 2 kynttä valkosipulia, murskattuna  
-- [ ] 2.5dl keitettyjä kikherneitä  
-- [ ] 200g murskattuja tomaatteja  
+- [ ] 1 sipuli
+- [ ] 2 kynttä valkosipulia 
+- [ ] 2.5dl kuivia kikherneitä (keitettynä)
+- [ ] 200g tomaattimurskaa
 - [ ] 1dl vettä  
 - [ ] 2 tl curryjauhetta  
-- [ ] 1 tl garam Masala  
+- [ ] 1 tl garam masalaa  
 - [ ] ½ tl inkiväärijauhetta  
 - [ ] ½ tl chilijauhetta  
 - [ ] 1 tl sitruunamehua

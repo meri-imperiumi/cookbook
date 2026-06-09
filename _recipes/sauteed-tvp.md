@@ -27,7 +27,7 @@ Käristys:
 - [ ] 2 ½  dl olutta  
 - [ ] 2ml timjamia  
 - [ ] 1/2 rkl soijakastiketta  
-- [ ] 10 kokonaista mustapippuria
+- [ ] 10 mustapippuria (kokonaista)
 
 Lisuke:
 - [ ] puolukkahilloa

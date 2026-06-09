@@ -10,9 +10,9 @@ tags:
 - [ ] 250g maustamaton rahka (löysä saksalainen)  
 - [ ] 20g sokeria  
 - [ ] 1tl vaniljasokeria  
-- [ ] 1 muna  
+- [ ] 1 munaa  
 - [ ] 1dl vehnäjauhoja  
-- [ ] voita paistamiseen
+- [ ] voita (paistamiseen)
 
 1. Sekoita kaikki aineet keskenään  
 2. Anna taikinan seisoa noin 20 minuuttia  

@@ -10,22 +10,22 @@ tags:
 tofu:  
 - [ ] 200g kiinteää tofua  
 - [ ] 1 rkl maissitärkkelystä  
-- [ ] ¼ tl chili jauhetta  
-- [ ] ½ tl savupaprikajauhetta  
-- [ ] ¼ tl mustapippuri  
+- [ ] ¼ tl chilijauhetta  
+- [ ] ½ tl paprikajauhetta  
+- [ ] ¼ tl mustapippuria 
 - [ ] 1 tl soijakastiketta  
-- [ ] ½ tl sriracha kastiketta  
-- [ ] 2 tl rypsiöljy
+- [ ] ½ tl srirachaa  
+- [ ] 2 tl rypsiöljyä
 
 kastike:  
-- [ ] 2 sipulia  
+- [ ] 2 sipuli
 - [ ] 2 kynttä valkosipulia  
 - [ ] 2.3 dl riisiä  
 - [ ] 2-3 munaa  
 - [ ] 1 rkl soijakastiketta  
-- [ ] 1 rkl sriracha kastiketta  
-- [ ] 2 rkl rypsiöljy  
-- [ ] 1 cm pala inkivääriä
+- [ ] 1 rkl srirachaa  
+- [ ] 2 rkl rypsiöljyä 
+- [ ] 1 cm tuoretta inkivääriä
 
 1. Keitä riisi, pyöhi ja jätä jäähtymään  
 2. Jos et käytä kiinteää tofua, prässää se kiinteäksi  

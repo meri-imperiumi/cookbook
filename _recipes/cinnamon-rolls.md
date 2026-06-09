@@ -9,19 +9,19 @@ category: bread
 ---
  ![offset\_355676.jpg](../files/cinnamon-rolls.png)
 
-- [ ] 1 ½ dl / 150g vettä  
-- [ ] ½ dl / 30g maitojauhetta  
+- [ ] 1 ½ dl (150g) vettä  
+- [ ] ½ dl (30g) maitojauhetta  
 - [ ] 60 g [ruisjuurta](sourdough.md)  
-- [ ] ½ muna  
-- [ ] ½ dl / 44g sokeri  
-- [ ] ½ tl / 1g suolaa  
-- [ ] 1 tl / 2g kardemummaa  
-- [ ] 5dl / 310g vehnäjauhoja  
+- [ ] ½ munaa  
+- [ ] ½ dl (44g) sokeria
+- [ ] ½ tl (1g) suolaa  
+- [ ] 1 tl (2g) kardemummaa  
+- [ ] 5dl (310g) vehnäjauhoja  
 - [ ] 50g voita  
 Täyte:
-- [ ] Voi
-- [ ] Fariinisokeri
-- [ ] Kaneli
+- [ ] Voita
+- [ ] Fariinisokeria
+- [ ] Kanelia
 
 1. Sekoita maitojauhe kylmään veteen  
 2. Lisää muna, sokeri, mausteet ja osa jauhoista (noin 200g)  

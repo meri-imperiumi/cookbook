@@ -11,7 +11,7 @@ tags:
 - [ ] 1/2dl sherryä  
 - [ ] 200ml kermaa  
 - [ ] voita  
-- [ ] 1 sipuli pilkottuna  
+- [ ] 1 sipuli  
 - [ ] 5ml mustapippuria  
 - [ ] 5ml timjamia
 

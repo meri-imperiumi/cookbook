@@ -9,15 +9,15 @@ cover: ../files/aubergine-casserole.png
 - [ ] voita  
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 sipuli  
-- [ ] 2 valkosipulin kynttä  
+- [ ] 2 kynttä valkosipulia  
 - [ ] ½ rkl basilikaa  
-- [ ] ½ rkl oregano  
-- [ ] ½ rkl timjami  
-- [ ] 1 laakerinlehti  
+- [ ] ½ rkl oreganoa  
+- [ ] ½ rkl timjamia
+- [ ] laakerinlehti  
 - [ ] 1 tl chilihiutaleita  
 - [ ] 150 ml soijarouhetta  
 - [ ] 2 rkl soijakastiketta  
-- [ ] 150 ml kasvilientä   
+- [ ] 150 ml kasvislientä   
 - [ ] 70 g tomaattipyrettä  
 - [ ] 400 g tomaattimurskaa
 

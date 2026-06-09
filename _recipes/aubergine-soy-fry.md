@@ -6,10 +6,10 @@ title: Munakoiso soijakastikkeessa
  ![](../files/aubergine-soy-fry.png)
 
 - [ ] 1 munakoiso  
-- [ ] 1/2dl soijakastikkeessa  
+- [ ] 1/2dl soijakastiketta
 - [ ] 1/2dl ruskeaa sokeria  
-- [ ] 1 valkosipuli murskattuna  
-- [ ] 5cm pala tuoretta inkivääriä raastettuna  
+- [ ] 1 valkosipulia
+- [ ] 5cm tuoretta inkivääriä (raastettuna)
 - [ ] 1tl srirachaa  
 - [ ] 2rkl oliiviöljyä  
 - [ ] 1dl cashew tai maapähkinöitä

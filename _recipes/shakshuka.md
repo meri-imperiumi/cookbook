@@ -11,10 +11,10 @@ tags:
 - [ ] 4 kynttä valkosipulia  
 - [ ] 1 sipuli  
 - [ ] 400g kokonaisia tölkkitomaatteja  
-- [ ] ½ rkl savustettua paprikajauhetta  
+- [ ] ½ rkl savupaprikajauhetta 
 - [ ] 1 tl kuminaa  
 - [ ] ½ tl kuivattua oreganoa  
-- [ ] ⅛ tl chilihiutalieta  
+- [ ] ⅛ tl chilihiutaleita  
 - [ ] ½ tl suolaa  
 - [ ] 2 kananmunaa  
 - [ ] 180g fetaa

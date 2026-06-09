@@ -8,7 +8,7 @@ title: Banaanikakku
  ![](../files/banana-cake.png)
 
 - [ ] 2  (200g) banaania  
-- [ ] 1 rkl sitruunanmehua  
+- [ ] 1 rkl sitruunamehua  
 - [ ] 100 g voita  
 - [ ] 1.5 dl sokeria  
 - [ ] 1 kananmunaa  

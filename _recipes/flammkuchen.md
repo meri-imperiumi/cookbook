@@ -11,9 +11,9 @@ category: pizza
 - [ ] 110 ml     vettä  
 - [ ] 200 g     ranskankermaa  
 - [ ] ½ tl suolaa  
-- [ ] 3 ml pippuria  
-- [ ] 3 ml muskottipähkinää  
-- [ ] 2     sipulia  
+- [ ] 3 ml mustapippuria  
+- [ ] 3 ml muskottia  
+- [ ] 2     sipuli
 - [ ] 50 g     aurinkokuivattua tomaattia
 
 1. Sekoita jauhot, suola öljy ja vesi taikinaksi.   

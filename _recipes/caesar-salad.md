@@ -7,11 +7,11 @@ title: Caesar-salaatti
 
 - [ ] 2 kynttä valkosipulia  
 - [ ] 1 tl suolaa  
-- [ ] 2 keltuaista  
+- [ ] 2 kananmunan keltuaista  
 - [ ] 2 rkl sitruunamehua  
 - [ ] ¾ tl dijon sinappia  
 - [ ] 2 rkl oliiviöljyä  
-- [ ] 1 ½ dl ruokaöljyä  
+- [ ] 1 ½ dl rypsiöljyä  
 - [ ] 3 rkl hienoksi raastettua parmesania  
 - [ ] mustapippuria  
 - [ ] salaattia  

@@ -7,19 +7,19 @@ title: Maapähkinävoi-linssi-curry
 ---
  ![](../files/peanut-butter-lentils.png)
 
-- [ ] 3 valkosipulinkynttä
-- [ ] 1 sipuli pilkottuna
-- [ ] 1 chili (tai 1tl hiutaleita)
-- [ ] Ruokaöljyä
+- [ ] 3 kynsi valkosipulia
+- [ ] 1 sipuli
+- [ ] 1 chili tai 1tl hiutaleita
+- [ ] Rypsiöljyä
 - [ ] 2dl punaisia linssejä
-- [ ] 1/2dl maapähkinävoita
+- [ ] ½dl maapähkinävoita
 - [ ] 4rkl tomaattipyrettä
 - [ ] 2rkl sitruunamehua
 - [ ] 1tl jeeraa
 - [ ] 1tl kanelia
-- [ ] 1tl kurkumaa
-- [ ] 1tl garam masalaa
-- [ ] 1tl inkiväärijauhetta
+- [ ] 1tl kurkumajauhetta
+- [ ] 1 tl garam masalaa
+- [ ] 1 tl inkiväärijauhetta
 
 1. Sipuli, valkosipuli ja chili kuullottumaan pannulle öljyyn. Kun ovat läpikuultavia, lisää pannulle mausteet, ja pyörittele niitä noin minuutti, kunnes tuoksu nousee nenääsi pilvenä. Sitten sekaan linssit, pyörittele taas tovi, ja lisää kasvisliemi. Anna kiehahtaa 
 2. Lisää sekaan maapähkinävoi ja tomaatit/tomaattipyree. Sekoittele ja anna hautua hiljalleen kiehuen noin 25 min välillä hämmennellen. Lisää vettä välillä, jos vaikuttaa menevän liian jänkiksi. Lisää sitruunamehua ja sekoita. Tarkista lopuksi maku ja lisää suolaa, jos on tarvis. 

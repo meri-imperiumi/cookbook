@@ -12,13 +12,14 @@ tags:
 
 - [ ] 3 rkl rypsiöljyä  
 - [ ] 1 sipuli  
-- [ ] 2 pientä porkkanaa  
+- [ ] 2 porkkanaa (pilkottuna)
 - [ ] 0.8 l kasvislientä  
-- [ ] 250 g (3.5dl) esiliotettuja herneitä  
-- [ ] 1 tl madras curryä  
-- [ ] 1 tl garam masala  
+- [ ] 250 g (3.5dl) kuivattuja herneitä (esiliotettuja)
+- [ ] 1 tl curryjauhetta
+- [ ] 1 tl garam masalaa  
 - [ ] 1 tl mustapippuria  
 - [ ] 1 tl suolaa
+- [ ] Sinappia
 
 1. Paista kattilassa keski lämmöllä sipulia ja porkkanoita kunnes sipulit ovat läpikuultavia   
 2. Lisää mausteet kattilaan ja paista noin 30 sekunnin ajan.  

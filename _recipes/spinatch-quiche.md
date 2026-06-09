@@ -14,12 +14,12 @@ tags:
 - [ ] 1 dl vettä  
 **Täyte**  
 - [ ] 1 dl kuivaa pinaattia  
-- [ ] 1 ½ vettä pinaatin kostutukseen  
+- [ ] 1 ½dl vettä
 - [ ] 100g fetaa  
 - [ ] 3 munaa  
 - [ ] 1.5 dl maitoa  
-- [ ] 1 sipuli pilkottuna  
-- [ ] ½ dl raastettua parmesania  
+- [ ] 1 sipuli  
+- [ ] ½ dl parmesania (raastettua) 
 - [ ] ½ tl mustapippuria  
 - [ ] ½ tl persiljaa
 

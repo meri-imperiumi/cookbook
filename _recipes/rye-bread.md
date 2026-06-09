@@ -2,15 +2,17 @@
 cover: ../files/rye-bread.png
 category: bread
 title: Ruisleivät
+tags:
+  - staples
 ---
  ![](../files/rye-bread.png)
 
-- [ ] 150 g aktiivista [ruisjuurta](sourdough.md)  
+- [ ] 150 g [ruisjuurta](sourdough.md) (aktiivista)
 - [ ] 5 dl (500g) vettä  
-- [ ] 3 rkl (30g) tummaa siirappia/leipäsiirappia  
+- [ ] 3 rkl (30g) leipäsiirappia tai tummaa siirappia
 - [ ] 2 dl  (150g) kaljamaltaita  
-- [ ] 8 dl (400g) luomuruisjauhoja  
-- [ ] 4 dl (250g) luomu(täysjyvä)vehnäjauhoja  
+- [ ] 8 dl (400g) ruisjauhoja  
+- [ ] 4 dl (250g) vehnäjauhoja (täysjyvä)
 - [ ] 3 tl (17g) suolaa
 
 1. Ota hapanjuuri jääkaapista noin vuorokautta ennen ja ruoki se. Jos juuri on kovin lämpimässä paikassa, saatat joutua lisäämään vettä ja ruisjauhoja muutamaan kertaan  

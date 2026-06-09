@@ -7,11 +7,11 @@ cover: ../files/moussaka.png
 
 - [ ] 1 munakoiso  
 - [ ] Voita  
-- [ ] 2 \- 4 jauhoista perunaa , esim. Rosamunda  
+- [ ] 2-4 perunaa (jauhoista, esim. Rosamunda)
 - [ ] Soijakastike  
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 sipuli  
-- [ ] 2 valkosipulin kynttä  
+- [ ] 2 kynttä valkosipulia  
 - [ ] 1 tl pippurisekoitusta  
 - [ ] ¾ tl suolaa  
 - [ ] 1 tl sokeria  
@@ -19,16 +19,17 @@ cover: ../files/moussaka.png
 - [ ] ripaus kanelia
 - [ ] 150 ml soijarouhetta  
 - [ ] 2 rkl soijakastiketta  
-- [ ] 150 ml kasvilientä  
-- [ ] 400 g tomaattimurska  
-- [ ] Juustokastike  
+- [ ] 150 ml kasvislientä  
+- [ ] 400 g tomaattimurskaa  
+
+Juustokastike:
 - [ ] 1 dl vehnäjauhoja  
 - [ ] 6 dl maitoa  
-- [ ] 2 ½ dl Mozzarella raastessa  
+- [ ] 2 ½ dl Mozzarellaraastetta  
 - [ ] ½ tl suolaa  
 - [ ] ripaus muskottia  
-- [ ] Lisää halutessasi tomaattikastikkeeseen 1 dl punaviiniä  
-- [ ] Pinnalle mozzarella raastetta
+- [ ] 1dl punaviiniä (tomaattikastikkeeseen) 
+- [ ] Pinnalle mozzarellaraastetta
 
 1. Lämmitä keskilämmöllä isolla pannulla oliiviöljyä. Lisää pilkottu sipuli anna hautua noin 5 minuuttia kunnes sipuli alkaa pehmetä.
 2. Lisää kuivat mausteet pannulle. Jos seos näyttää kuivalta, lisää hieman oliiviöljyä. Sekoita murskattu valkosipuli joukkoon hyvin sekoittaen..

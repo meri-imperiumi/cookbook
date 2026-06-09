@@ -12,9 +12,9 @@ tags:
 - [ ] 1 tl persiljaa  
 - [ ] 2 tl basilikaa  
 - [ ] 400 g tomaattimurskaa  
-- [ ] 2 annosta pastaa  
+- [ ] 2 annosta spagettia  
 - [ ] 1 tl suolaa (pastaveteen)  
-- [ ] 1 litra vettä  
+- [ ] 1 litraa vettä  
 - [ ] raastettua parmesania
 
 1. Lisää suola keitinveteen ja aloita pastan keittäminen.  

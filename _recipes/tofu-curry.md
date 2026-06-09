@@ -9,11 +9,11 @@ tags:
 
 TOFU:  
 - [ ] 1 rkl maissitärkkelystä  
-- [ ] ½ tl  garam masala  
+- [ ] ½ tl  garam masalaa  
 - [ ] 3ml inkiväärijauhetta   
-- [ ] 2ml chilijauhetta (mieto)  
+- [ ] 2ml chilijauhetta
 - [ ] 3ml curryjauhetta  
-- [ ] 3 rkl kookosöljy  
+- [ ] 3 rkl kookosöljyä
 - [ ] 200 g kiinteää tofua
 - [ ] 2dl riisiä  
 - [ ] 4 dl vettä  
@@ -22,16 +22,16 @@ TOFU:
 KASTIKE:  
 - [ ] 1 ½ rkl kookosöljyä  
 - [ ] 400ml kookosmaitoa  
-- [ ] 1 rkl garam masala  
+- [ ] 1 rkl garam masalaa  
 - [ ] 1 tl inkiväärijauhetta  
 - [ ] ½ tl chilijauhetta (mieto)  
-- [ ] ½ tl mustapippurijauhetta  
+- [ ] ½ tl mustapippuria  
 - [ ] 1 tl curryjauhetta  
-- [ ] 1 pieni sipuli  
-- [ ] 1 porkkana  
-- [ ] 1 tl merisuolaa  
+- [ ] 1 sipuli  
+- [ ] 1 porkkanaa 
+- [ ] 1 tl suolaa  
 - [ ] 70 g tomaattipyrettä  
-- [ ] 1 limen mehu
+- [ ] Sitruunamehua
 
 TOFU:
 1. Prässää tofu.  

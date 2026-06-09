@@ -8,18 +8,18 @@ tags:
 ---
  ![offset\_355676.jpg](../files/rajma-masala.png)
 
-- [ ] 1.3 dl kuivattuja kidney-papuja keitettynä   
-- [ ] 1 iso sipuli  
-- [ ] 250g tölkkitomaattia  
+- [ ] 1.3 dl kuivattuja kidney-papuja (keitettynä)
+- [ ] 1 sipuli  
+- [ ] 250g tomaattimurskaa  
 - [ ] 4 kynttä valkosipulia  
-- [ ] 2.5cm  inkivääriä  
-- [ ] 1 tl korianterijauhetta  
+- [ ] 2.5cm tuoretta inkivääriä  
+- [ ] 1 tl korianteria
 - [ ] ½ tl chilijauhetta  
-- [ ] ¼ tl kurkum jauhetta  
-- [ ] ½ tl garam masala jauhetta  
-- [ ] ½ tl kuminajauhetta  
-- [ ] 3 rkl öljyä  
-- [ ] 3 rkl kefiiiriä tai kermaa  
+- [ ] ¼ tl kurkumajauhetta  
+- [ ] ½ tl garam masalaa 
+- [ ] ½ tl kuminaa 
+- [ ] 3 rkl kookosöljyä  
+- [ ] 3 rkl kermaa tai kefiiriä
 - [ ] 2 ml suolaa
 
 1. Lämmitä öljy pannulla ja kuullota sipulit kultaisiksi  

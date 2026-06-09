@@ -5,12 +5,12 @@ title: Valkosipulinaan
 ---
  ![](../files/garlic-naan.png)
 
-- [ ] 4 dl	puolikarkeita vehnäjauhoja  
+- [ ] 4 dl vehnäjauhoja (puolikarkeita)
 - [ ] ½ tl	kuivahiivaa  
 - [ ] 1 tl suolaa  
 - [ ] ½ tl	leivinjauhetta  
 - [ ] 1.75 dl vettä  
-- [ ] 1rkl rypsiöljya  
+- [ ] 1rkl rypsiöljyä  
 - [ ] 2tl sokeria
 
 1. Sekoita sokeri, vesi ja kuivahiiva, anna seistä 15 min  

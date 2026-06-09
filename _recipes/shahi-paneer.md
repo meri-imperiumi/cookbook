@@ -23,13 +23,13 @@ KASTIKE:
 - [ ] 2.5 cm tuoretta inkivääriä  
 - [ ] 3 rkl kookosöljyä  
 - [ ] 4dl kookosmaitoa  
-- [ ] 1 dl tomaattipyreetä  
+- [ ] 1 dl tomaattipyrettä  
 - [ ] 1 tl korianteria  
 - [ ] 1 tl kardemummaa  
 - [ ] 1 tl chilijauhetta  
 - [ ] 1 tl garam masalaa  
 - [ ] ½ tl suolaa  
-- [ ] 1 ½ dl cashew pähkinöitä  
+- [ ] 1 ½ dl cashew-pähkinöitä  
 - [ ] 1 dl manteleita
 
 JUUSTO:

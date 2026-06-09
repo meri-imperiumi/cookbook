@@ -10,16 +10,17 @@ tags:
 ![](../files/lentil-coconut-curry.png)
 
 - [ ] 2 rkl kookosöljyä  
-- [ ] 1 sipuli pilkottuna  
-- [ ] 1 rkl madras curryä  
+- [ ] 1 sipuli  
+- [ ] 1 rkl curryjauhetta 
 - [ ] ¼ tl chilihiutaleita  
 - [ ] 4 kynttä valkosipulia  
-- [ ] 4 cm tuoretta inkivääriä pilkottuna  
+- [ ] 4 cm tuoretta inkivääriä
 - [ ] 1.5 dl punaisia linssejä  
 - [ ] 6 dl vettä  
-- [ ] 400g murskattuja tomaatteja  
+- [ ] 400g tomaattimurskaa 
 - [ ] 400g kookosmaitoa  
-- [ ] Suolaa ja mustapippuria
+- [ ] suolaa
+- [ ] mustapippuria
 
 1. Paista kattilassa keskilämmöllä sipulia ja suolaa kunnes läpikuultavia.  
 2. Lisää mausteet, valkosipuli ja inkivääri ja keitä noin kaksi minuuttia  

@@ -7,10 +7,10 @@ title: Feta-pähkinä-tahna
 
 - [ ] 200 g fetajuustoa  
 - [ ] 150 g cashew pähkinöitä   
-- [ ] 1 valkosipulinkynsi  
+- [ ] 1 kynsi valkosipulia
 - [ ] 3 rkl vettä  
 - [ ] 2 tl kuivattua basilikaa  
-- [ ] 1 rkl sitruunanmehua  
+- [ ] 1 rkl sitruunamehua  
 - [ ] ripaus mustapippuria
 
 1. Laita valkosipuli, sitruunamehu ja pähkinät tehosekoittimeen ja hienonna.  

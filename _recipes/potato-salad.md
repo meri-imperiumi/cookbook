@@ -6,16 +6,16 @@ category: salads
 ![](../files/potato-salad.png)
 
 - [ ] 500 g perunaa  
-- [ ] 1 keltasipuli  
+- [ ] 1 sipuli
  - [ ] 150g maustekurkkua  
 MAJONEESI:  
-- [ ] 1 kananmunan keltuainen  
+- [ ] 1 kananmunan keltuaista
 - [ ] 2 ml suolaa  
 - [ ] 1 ml valkopippuria  
 - [ ] 1 tl dijon sinappia  
 - [ ] ½ rkl valkoviinietikkaa  
 - [ ] 2 ½  dl rypsiöljyä  
-- [ ] 2 rkl käden lämpöistä vettä
+- [ ] 2 rkl vettä (käden lämpöistä)
 
 ESIVALMISTELUT
 1. Keitä perunat suolavedessä (1 tl suolaa / litra vettä)  

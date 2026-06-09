@@ -9,12 +9,12 @@ tags:
 ![](../files/galette.png)
 
 - [ ] 1 dl tattarijauhoa  
-- [ ] ¾ dl täysjyvävehnäjauho  
+- [ ] ¾ dl vehnäjauhoja (täysjyvä)  
 - [ ] ½ tl suolaa  
-- [ ] 1 muna  
+- [ ] 1 munaa  
 - [ ] 1 ½ dl maitoa  
 - [ ] 1 ½ dl vettä  
-- [ ] voita paistamiseen
+- [ ] voita (paistamiseen)
 
 1. Sekoita kuivat aineet keskenään pienessä kulhossa.  
 2. Toisessa kulhossa riko munan rakenne.  

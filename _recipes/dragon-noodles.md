@@ -9,7 +9,7 @@ title: Lohikäärmenuudelit
 - [ ] ½ rkl chilihiutaleita
 - [ ] 2 munaa  
 - [ ] 2 rkl ruskeaa sokeria
-- [ ] 2 rkl sriracha a
+- [ ] 2 rkl srirachaa
 - [ ] 2 rkl soijakastiketta
 - [ ] 1-2 kevätsipulia
 - [ ] Kaksi annosta nuudelia

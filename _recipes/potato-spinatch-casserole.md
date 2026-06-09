@@ -10,7 +10,7 @@ cover: ../files/potato-spinatch-casserole.png
 - [ ] 3 dl juustoraastetta  
 - [ ] 2-3 dl maitoa  
 - [ ] 1tl basilikaa  
-- [ ] Öljyä vuuan pohjalle
+- [ ] 1rkl öljyä
 
 1. Levitä voideltuun vuokaan puolet perunaviipaleista ja niiden päälle esiliotettu pinaatti  
 2. Ripottele pinaatin päälle 1 dl juustoraastetta ja basilika  

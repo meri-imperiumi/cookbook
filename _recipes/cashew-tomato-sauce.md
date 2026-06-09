@@ -8,16 +8,17 @@ tags:
 ![](../files/cashew-tomato-sauce.png)
 
 - [ ] 2 annosta spagettia  
-- [ ] 1 tlk tomaattia  
-- [ ] 1 dl cashewpähkinöitä  
-- [ ] 1 rkl tomaattipyreetä  
+- [ ] 400g tomaattimurskaa
+- [ ] 1 dl cashew-pähkinöitä  
+- [ ] 1 rkl tomaattipyrettä  
 - [ ] 1 rkl oliiviöljyä  
-- [ ] 2 valkosipulinkynttä  
+- [ ] 2 kynttä valkosipulia
 - [ ] 1 dl  kuivattua kanttarellia  
 - [ ] 1 tl balsamicoa  
 - [ ] 1 dl vettä  
 - [ ] tuoretta basilikaa  
-- [ ] suolaa ja mustapippuria  
+- [ ] suolaa
+- [ ] mustapippuria  
 - [ ] 2 tl suolaa (pastaveteen)  
 - [ ] 1 ½  litraa vettä
 

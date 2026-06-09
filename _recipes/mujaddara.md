@@ -8,9 +8,9 @@ tags:
  ![offset\_355676.jpg](../files/mujaddara.png)
 
 - [ ] 1 dl oliiviöljyä  
-- [ ] 4 keltasipulia  
+- [ ] 4 sipuli 
 - [ ] 4-6 kynttä valkosipulia  
-- [ ] 1 rkl kuminajauhetta  
+- [ ] 1 rkl kuminaa  
 - [ ] 1 tl maustepippuria  
 - [ ] ¼  tl neilikkajauhe  
 - [ ] 2 tl suolaa  

@@ -8,7 +8,7 @@ title: Toffee
 ---
 ![](../files/toffee.png)
 
-- [ ] 2 dl kuohukermaa tai 2dl vettä ja 0.5dl maitojauhetta  
+- [ ] 2 dl kermaa tai 2dl vettä ja 0.5dl maitojauhetta  
 - [ ] 1 ½ dl sokeria  
 - [ ] ½ dl siirappia  
 - [ ] 25 g voita

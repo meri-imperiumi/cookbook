@@ -8,17 +8,6 @@ tags:
 ---
  ![](../files/thursday-pancake.png)
 
-Asuntouuniannos  
-- [ ] 5dl maitoa  
-- [ ] 2kananmunaa  
-- [ ] ½ dl sokeria  
-- [ ] 1 tl suolaa  
-- [ ] 2 ½ dl	vehnäjauhoja  
-- [ ] 25 g voi  
-
-TAI
-
-Veneannos: optimoitu omnialle  
 - [ ] 2 dl vettä  
 - [ ] 2 ½ rkl maitojauhetta  
 - [ ] 1 kananmunaa  

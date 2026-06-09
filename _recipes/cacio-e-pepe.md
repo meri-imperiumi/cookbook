@@ -8,8 +8,8 @@ category: pasta
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 rkl voita  
 - [ ] 2 tl mustapippuria (isorakeinen)  
-- [ ] 2 dl raastettua parmesania tai grada padanoa  
-- [ ] 1 dl raastettua pecorinoa  
+- [ ] 2 dl parmesania tai grada padanoa (raastettuna)
+- [ ] 1 dl pecorinoa (raastettua)
 - [ ] 2 annosta spagettia  
 - [ ] 2 tl suolaa (pastaveteen)  
 - [ ] 1 ½  litraa vettä

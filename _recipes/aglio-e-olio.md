@@ -12,7 +12,7 @@ tags:
 - [ ] ¼ tl chilihiutaleita  
 - [ ] ½ tl persiljaa  
 - [ ] 2 annosta spagettia  
-- [ ] 2 tl suolaa (pastaveteen)  
+- [ ] 2 tl suolaa (pastaveteen)
 - [ ] 1 ½  litraa vettä  
 - [ ] raastettua parmesania
 

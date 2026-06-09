@@ -7,7 +7,7 @@ category: casseroles
 
 - [ ] 400g vihreitä papuja  
 - [ ] 1dl oliiviöljyä  
-- [ ] 1dl raastettua parmesania  
+- [ ] 1dl parmesania (raastettua)
 - [ ] Suolaa  
 - [ ] Mustapippuria
 

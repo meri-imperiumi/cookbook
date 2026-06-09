@@ -5,7 +5,7 @@ title: Kalapullat
 ---
 ![](../files/fish-balls.png)
 
-- [ ] 600g kalafilettä, esim. purjekala tai hauki  
+- [ ] 600g kalafilettä (esim. purjekala / hauki)
 - [ ] 1dl Kookosmaitoa  
 - [ ] 2 kananmunaa  
 - [ ] 2rkl sitruunamehua  

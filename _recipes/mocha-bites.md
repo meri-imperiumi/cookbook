@@ -10,16 +10,16 @@ title: Mokkapalat
 - [ ] 2 dl sokeria  
 - [ ] 2 munaa  
 - [ ] 1 dl vettä  
-- [ ] 150g sulatettua voita  
+- [ ] 150g voita (sulatettuna)  
 - [ ] 3dl vehnäjauhoja  
 - [ ] 2tl leivinjauhetta  
 - [ ] 2tl vaniljasokeria  
 - [ ] 1tl neilikkaa  
-- [ ] 50 g murustettua suklaata  
+- [ ] 50 g suklaata (murustettuna)
 Kuorrutus:   
 - [ ] 225g tomusokeria  
-- [ ] 1/2dl voisulaa  
-- [ ] 1/2dl vahvaa kahvia  
+- [ ] 1/2dl voita  
+- [ ] 1/2dl kahvia (vahvaa)
 - [ ] 2tl vaniljasokeria
 
 1. Vatkaa sokeri ja munat vaahdoksi  

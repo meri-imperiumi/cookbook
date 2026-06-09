@@ -5,12 +5,12 @@ title: Peruna-pecorinopihvi
 ---
 ![](../files/bracioles.png)
 
-- [ ] 5–6 keitettyä perunaa  
+- [ ] 5–6 perunaa (keitettyä)  
 - [ ] 50–100 g pecorinoa  
 - [ ] 1tl tuoretta persiljaa  
 - [ ] 1tl tuoretta basilikaa  
 - [ ] 2 kananmunaa  
-- [ ] öljyä paistamiseen
+- [ ] öljyä (paistamiseen)
 
 1. Soseuta keitetyt perunat.  
 2. Raasta pecorino hienoksi.  

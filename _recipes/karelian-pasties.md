@@ -17,7 +17,7 @@ Täyte
 - [ ] 2 dl riisiä  
 - [ ] 7 dl maitoa  
 - [ ] 1 tl suolaa  
-- [ ] 1 kananmuna
+- [ ] 1 kananmunaa
 
 1. Sekoita kiehuvaan veteen riisi ja keitä 10 minuuttia.  
 2. Lisää maito hiljalleen ja anna puuron kiehua hiljalleen 30 minuuttia välillä pohjaa pitkin sekoittaen. Jätä täyte hautumaan kannen alle 10 minuutiksi.  

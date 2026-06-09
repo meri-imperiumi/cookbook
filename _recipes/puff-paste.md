@@ -5,11 +5,11 @@ title: Voitaikina
 ---
 ![](../files/puff-paste.png)
 
-- [ ] 150g voita (kylmää ja kovaa)  
+- [ ] 150g voita 
 - [ ] 150g vehnäjauhoja  
-- [ ] 1dl kylmää vettä
+- [ ] 1dl vettä (kylmää)
 
-1. Nypi jauhot ja 50 g voita tasaiseksi murumaiseksi seokseksi. Sekoita vesi nopeasti joukkoon. Muotoile taikina kelmun sisään levyksi ja nosta pakastimeen noin 10 minuutiksi.  
+1. Nypi jauhot ja 50g voita tasaiseksi murumaiseksi seokseksi. Sekoita vesi nopeasti joukkoon. Muotoile taikina kelmun sisään levyksi ja nosta pakastimeen noin 10 minuutiksi.  
 2. Kauli taikina noin 30 cm x 30 cm:n kokoiseksi levyksi.  
 3. Viipaloi kylmä voi esimerkiksi juustohöylällä ja lado viipaleet vinottain taikinalevyn keskelle neliön muotoon. Taita taikinan nurkat rasvan päälle kirjekuoren tapaan.  
 4. Ripottele taikinan kummallekin puolelle jauhoja ja kauli taikinalevyä ohuemmaksi. Kauli varovasti kulmia kohden, jotta rasva pysyy sisällä. Pyyhi ylimääräiset jauhot pois ja taita levy kolmeen osaan.  

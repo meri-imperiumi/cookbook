@@ -11,7 +11,7 @@ title: Feta-pinaatti börek
 - [ ] 1 dl cashew pähkinää  
 - [ ] 240g [voitaikinaa](puff-paste.md)  
 - [ ] ½ tl mustapippuria  
-- [ ] 1 muna voiteluun
+- [ ] 1 munaa (voiteluun)
 
 1. Sekoita kuiva pinaatti veteen ja anna liota noin 5 minuuttia ja valuta siivilässä ylimääräinen neste pois.  
 2. Hienonna fetajuusto haarukalla.   

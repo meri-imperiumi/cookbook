@@ -5,11 +5,11 @@ cover: ../files/ginger-beer.png
 ---
 ![](../files/ginger-beer.png)
 
-- [ ] 800g tuoretta kuorittua inkivääriä   
-- [ ] 1200g valkoista sokeria  
+- [ ] 800g tuoretta inkivääriä   
+- [ ] 1200g sokeria  
 - [ ] 4rkl limettimehua  
 - [ ] 1tl shampanjahiivaa  
-- [ ] 11 litraa vettä joista 2.5 litraa keitetty inkiväärin kanssa
+- [ ] 11l vettä (joista 2.5 litraa keitetty inkiväärin kanssa)
 
 1. Kiehauta 2.5 litraa vettä  
 2. Lisää kuorittu ja pilkottu inkivääri veteen.  

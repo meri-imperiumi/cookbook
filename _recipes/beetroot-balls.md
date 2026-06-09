@@ -6,11 +6,11 @@ title: Punajuuripyörykät
 ![](../files/beetroot-balls.png)
 
 - [ ] 400g raakaa punajuurta  
-- [ ] 200g  keitettyjä perunaa  
+- [ ] 200g  perunaa (keitettyä)
 - [ ] 1 dl maissia  
 - [ ] 3 rkl graham tai tattarijauhoa  
 - [ ] 1 tl basilikaa  
-- [ ] 2 rkl rypsiöljyä paistamiseen
+- [ ] 2 rkl rypsiöljyä (paistamiseen)
 
 1. Kuori keitetyt perunat ja raa-at punajuuret  
 2. Raasta ne hienoksi raasteeksi  

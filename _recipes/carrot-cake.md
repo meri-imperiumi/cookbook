@@ -15,7 +15,9 @@ title: Porkkanakakku
 - [ ] 1 tl kanelia  
 - [ ] 1/2 tl soodaa  
 - [ ] 1/2 tl leivinjauhetta  
-- [ ] 1ml inkivääri, neilikka, chili  
+- [ ] 1ml inkivääri
+- [ ] 1ml neilikkaa
+- [ ] 1ml chili  
 - [ ] Lisää pähkinöitä  
 Kuorrutus  
 - [ ] 25g voita  

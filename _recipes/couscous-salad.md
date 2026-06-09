@@ -5,17 +5,16 @@ title: Miisan cous cous salaatti
 ---
  ![offset\_355676.jpg](../files/couscous-salad.png)
 
-- [ ] 2 dl vettä  
-- [ ] 1 ¾ dl cous cousia  
-- [ ] ½ pala kasvisliemikuutiota  
-- [ ] 1 rkl  sitruuna mehua  
+- [ ] 2 dl kasvislientä  
+- [ ] 1 ¾ dl cous cousia 
+- [ ] 1 rkl  sitruunamehua  
 - [ ] 3 rkl oliiviöljyä  
-- [ ] 1 sipuli (tai paistettua sipulia)  
+- [ ] 1 sipuli tai paistettua sipulia 
 - [ ] 3-4 tomaattia  
 - [ ] 10 cm kurkkua  
 - [ ] puolikas paprika  
 - [ ] ½ tl suolaa  
-- [ ] ½ tl pippuria
+- [ ] ½ tl mustapippuria
 
 1. Keitä vesi ja liota kasvisliemi  
 2. Liesi pois päältä  

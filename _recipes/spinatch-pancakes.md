@@ -9,12 +9,12 @@ tags:
 ![](../files/spinatch-pancakes.png)
 
 - [ ] 2 dl kuivattua pinaattia  
-- [ ] 3 kananmunaa  
+- [ ] 3 munaa  
 - [ ] 1 dl maitojauhetta  
 - [ ] 5 dl vettä  
 - [ ] 3 dl vehnäjauhoja  
-- [ ] ½ dl  sulatettua voita  
-- [ ] ½ tl suola
+- [ ] ½ dl voita (sulatettuna)
+- [ ] ½ tl suolaa
 
 1. Riko kananmunien rakenne  
 2. Lisää kylmä vesi ja sekoita maitojauhe joukkoon.  

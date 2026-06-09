@@ -12,7 +12,7 @@ title: Melanzanchini
 - [ ] 3 kananmunaa
 - [ ] Suolaa
 - [ ] Mustapippuria
-- [ ] Voita paistamiseen
+- [ ] Voita (paistamiseen)
 
 1. Leikkaa leipä pieniksi paloiksi
 2. Leikkaa munakoiso kuutioiksi ja keitä pehmeiksi. Keitinvettä voi käyttää leivän pehmentämiseen

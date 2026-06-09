@@ -7,10 +7,10 @@ cover: ../files/marrakech.png
 
 - [ ] ½ tl suolaa  
 - [ ] 1 rkl valkosipulia  
-- [ ] 1 tl chiliä  
-- [ ] 1 rkl jeera  
+- [ ] 1 tl chilihiutaleita 
+- [ ] 1 rkl jeeraa  
 - [ ] 1 rkl paprika   
-- [ ] 1 rkl korianteri 
+- [ ] 1 rkl korianteria 
 
 1. Mittaa aineet mortteliin suolaa lukuunottamatta ja hienonna  
 2. Laita pussiin, lisää suola ja sekoita.

@@ -5,16 +5,16 @@ title: Gazpacho
 ---
 ![](../files/gazpacho.png)
 
-- [ ] 1 tuore tomaatti (eli 1 kourallinen)  
+- [ ] 1 tomaattia
 - [ ] 1 kourallinen pilkottua paprikaa  
 - [ ] ½ kourallinen leipää (sakeuttamiseen)  
-- [ ] 1-2rkl pilkottua sipulia  
+- [ ] 1-2rkl sipuli  
 - [ ] 1 kynsi valkosipulia  
 - [ ] 7cm kurkkua  
 - [ ] ½tl mustapippuria  
 - [ ] ½tl suolaa  
 - [ ] 1rkl oliiviöljyä   
-- [ ] Chilihiutaleita maun mukaan
+- [ ] Chilihiutaleita (maun mukaan)
 
 Tämä on yhden hengen annos joka mahtuu veneen blenderiin
 

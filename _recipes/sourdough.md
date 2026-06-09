@@ -5,7 +5,7 @@ category: ingredients
 ---
  ![](../files/sourdough.png)
 
-- [ ] Kuivattua hapanjuurta  
+- [ ] Kuivattua ruisjuurta  
 - [ ] Ruisjauhoja  
 - [ ] Vettä
 

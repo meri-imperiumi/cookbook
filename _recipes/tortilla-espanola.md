@@ -8,13 +8,13 @@ tags:
 ---
 ![](../files/tortilla-espanola.png)
 
-- [ ] 450g (n. 8 kpl) kuorittuja perunoita  
+- [ ] 450g (n. 8 kpl) perunoita (kuorittuja)
 - [ ] 0.6 dl oliiviöljyä  
 - [ ] 1 sipuli  
 - [ ] 4 munaa  
 - [ ] Suolaa  
 - [ ] Mustapippuria  
-- [ ] Aurinkokuivattuja tomaatteja  
+- [ ] 1dl aurinkokuivattuja tomaatteja  
 - [ ] Persiljaa
 
 1. Lämmitä oliiviöljy pannulla keskilämmöllä  

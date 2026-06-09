@@ -10,17 +10,17 @@ tags:
 ---
  ![offset\_355676.jpg](../files/navy-bean-soup.png)
 
-- [ ] 2.5dl valkoisia papuja, liotettuina  
-- [ ] 400g murskattuja tomaatteja  
-- [ ] 1 sipuli, pilkottuna  
-- [ ] 4 kynttä valkosipulia, pilkottuna  
-- [ ] 2 porkkanaa, pilkottuna  
+- [ ] 2.5dl kuivattuja valkoisia papuja (iotettuina) 
+- [ ] 400g tomaattimurskaa 
+- [ ] 1 sipuli
+- [ ] 4 kynttä valkosipulia
+- [ ] 2 porkkanaa (pilkottuna)
 - [ ] 5dl kasvislientä  
 - [ ] ½ rkl timjamia  
 - [ ] ½ rkl kuminaa  
 - [ ] 1 tl chilihiutaleita  
 - [ ] 1 tl soijakastiketta  
-- [ ] 1 laakerinlehti  
+- [ ] Laakerinlehti  
 - [ ] Mustapippuria  
 - [ ] Suolaa  
 - [ ] 1 rkl oliiviöljyä

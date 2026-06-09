@@ -7,15 +7,15 @@ cover: ../files/bread-casserole.png
 
 - [ ] Kuiva leipä  
 - [ ] Sipuli  
-- [ ] 400g murskattua tomaattia  
+- [ ] 400g tomaattimurskaa
 - [ ] Juustoa  
 - [ ] Sieniä  
-- [ ] Aurinkokuivattu tomaatti  
+- [ ] 1/2dl Aurinkokuivattua tomaattia
 - [ ] Maitoa  
 - [ ] Munaa  
-- [ ] Mustapippuri  
-- [ ] Oregano  
-- [ ] Ruohosipuli
+- [ ] Mustapippuria
+- [ ] Oreganoa
+- [ ] Ruohosipulia
 
 1. Liota sienet  
 2. Pilko kuiva leipä ohuiksi siivuiksi ja kuutioiksi  

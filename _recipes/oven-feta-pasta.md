@@ -4,14 +4,15 @@ category: pasta
 title: Uunifetapasta
 tags:
   - storm
+  - staples
 ---
 ![](../files/oven-feta-pasta.png)
 
-- [ ] 250 g pastaa  
+- [ ] 250 g spagettia  
 - [ ] 200 g fetajuusto  
 - [ ] 2 rkl oliiviöljyä  
 - [ ] 400g kokonaisia tölkkitomaatteja  
-- [ ] ½ tl jauhettua pippuria  
+- [ ] ½ tl mustapippuria  
 - [ ] ¼ tl suolaa  
 - [ ] ½ tl sokeria  
 - [ ] ½ tl chilihiutaleita

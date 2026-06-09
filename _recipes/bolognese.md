@@ -10,21 +10,21 @@ tags:
 - [ ] 1 rkl oliiviöljyä  
 - [ ] 1 sipuli  
 - [ ] 2 porkkanaa  
-- [ ] 2 valkosipulin kynttä  
+- [ ] 2 kynttä valkosipulia  
 - [ ] ½ rkl basilikaa  
-- [ ] ½ rkl oregano  
-- [ ] ½ rkl timjami  
-- [ ] 1 laakerinlehti  
+- [ ] ½ rkl oreganoa  
+- [ ] ½ rkl timjamia
+- [ ] laakerinlehti  
 - [ ] 1 tl chilihiutaleita  
 - [ ] 150 ml soijarouhetta  
 - [ ] 2 rkl soijakastiketta  
-- [ ] 150 ml kasvilientä   
+- [ ] 150 ml kasvislientä   
 - [ ] 2rkl kuivattua paprikaa  
 - [ ] 70 g tomaattipyrettä  
-- [ ] 400 g tomaattimurskaa (tai 1.5dl.kuivaa tomaattia)  
-- [ ] 2 annosta pastaa  
+- [ ] 400 g tomaattimurskaa
+- [ ] 2 annosta spagettia  
 - [ ] 1 tl suolaa (pastaveteen)  
-- [ ] 1 litra vettä  
+- [ ] 1 litraa vettä  
 - [ ] raastettua parmesania  
 - [ ] valkoviiniä
 
@@ -35,3 +35,5 @@ tags:
 5. Lisää kasvisliemi pannulle. Anna kiehua muutama minuutti.
 6. Lisää tommattipyre ja sekoita kunnolla.
 7. Lisää tomaattimurska ja sekoita. Kun seos alkaa kiehua, alenna levyn lämpötila miedolle ja anna kastikkeen hautua 7-9 minuuttia. Haudutuksen aikana kastikkeeseen voi lisätä viiniä makua antamaan.
+ 
+  Tomaattimurskan sijaan voi käyttää 1.5dl kuivattua tomaattia liotettuna.

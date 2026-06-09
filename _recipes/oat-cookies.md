@@ -10,11 +10,11 @@ title: Kaurakeksit
 
 - [ ] 2dl kaurahiutaleita  
 - [ ] 1 dl sokeria  
-- [ ] ½ teelusikkaa vaniljasokeria  
-- [ ] 1 ruokalusikka vehnäjauhoja  
-- [ ] 1 teelusikka leivinjauhetta  
+- [ ] ½ tl vaniljasokeria  
+- [ ] 1 rkl vehnäjauhoja  
+- [ ] 1 tl leivinjauhetta  
 - [ ] 50g voita  
-- [ ] 1 kananmuna
+- [ ] 1 munaa
 
 1. Yhdistä kuivat aineet kulhossa  
 2. Lisää sulatettu, jäähdytetty voi  

@@ -5,7 +5,7 @@ title: Chili sin carne
 ---
  ![offset\_355676.jpg](../files/chili-sin-carne.png)
 
-- [ ] 2 rkl rypsiöljuä  
+- [ ] 2 rkl rypsiöljyä  
 - [ ] 1 sipuli  
 - [ ] 2 kynttä valkosipulia  
 - [ ] 2 porkkanaa  
@@ -14,15 +14,15 @@ title: Chili sin carne
 - [ ] 1 tl korianteria  
 - [ ] 1 tl oreganoa  
 - [ ] ½ tl chilihiutaleita  
-- [ ] 1 laakerinlehti  
+- [ ] laakerinlehti  
 - [ ] 3 dl kuivattuja papuja  
 - [ ] 1 dl soijarouhetta  
 - [ ] 1 dl kasvislientä  
 - [ ] 1 rkl soijakastiketta  
-- [ ] 400g murskattuja tomaatteja  
+- [ ] 400g tomaattimurskaa  
 - [ ] 100 g maissia  
 - [ ] suolaa  
-- [ ] pippuria 
+- [ ] mustapippuria 
 
 1. Esikeitä liotetut pavut kypsiksi  
 2. Hauduta pilkotut sipulit ja porkkanat öljyssä, kunnes ne ovat pehmenneet  

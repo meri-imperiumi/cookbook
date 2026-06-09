@@ -6,7 +6,7 @@ category: spreads
 ![](../files/obazda.png)
 
 - [ ] 125g camembert juustoa  
-- [ ] 1 pieni sipuli  
+- [ ] 1 sipuli  
 - [ ] 1 ml kuminaa  
 - [ ] 31g voita  
 - [ ] 62g raejuustoa  

@@ -13,12 +13,12 @@ tags:
 - [ ] 2cm tuoretta inkivääriä  
 - [ ] 0.8 l kasvislientä  
 - [ ] 3.5dl punaisia linssejä  
-- [ ] 1 tl madras curryä  
+- [ ] 1 tl curryjauhetta
 - [ ] 1 tl kuminaa  
 - [ ] 1 tl korianterin siemeniä  
 - [ ] ½ tl garam masalaa  
 - [ ] ½ tl suolaa  
-- [ ] 1 purkki tomaattimurskaa
+- [ ] 400g tomaattimurskaa
 
 1. Paista kattilassa keskilämmöllä sipulia kunnes läpikuultavia.  
 2. Lisää valkosipuli ja inkivääri ja keitä noin minuutti  

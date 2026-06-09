@@ -191,6 +191,9 @@ body.recipe .task-list-item {
 body.recipe .task-list-item input {
     display: none;
 }
+main table th, main table td {
+    text-align: left;
+}
 main hr {
     height: 80px;
     background-image: url('./boat.png');

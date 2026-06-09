@@ -10,19 +10,19 @@ tags:
 
 Bolognese-kastike:  
 - [ ] 1 rkl oliiviöljyä
-- [ ] 1 sipuli pilkottuna
-- [ ] 1 porkkana pilkottuna
-- [ ] 2 kynttä valkosipulia pilkottuna
+- [ ] 1 sipuli
+- [ ] 1 porkkanaa
+- [ ] 2 kynttä valkosipulia
 - [ ] ½ rkl basilikaa
 - [ ] ½ rkl oreganoa
 - [ ] ½ rkl timjamia
-- [ ] 1 laakerinlehti
+- [ ] laakerinlehti
 - [ ] ½ tl chilihiutaleita
 - [ ] 125ml soijarouhetta
 - [ ] 1 rkl soijakastiketta
 - [ ] 125ml kasvislientä
 - [ ] 80g tomaattipyrettä
-- [ ] 400g tölkkitomaatteja
+- [ ] 400g tomaattimurskaa
 
 Béchamel-kastike:  
 - [ ] 1.5 rkl voita
@@ -31,7 +31,7 @@ Béchamel-kastike:
 - [ ] 1.5dl juustoraastetta
 
 Lasagne:  
-- [ ] 7 lasagnelevyä
+- [ ] 7 kpl lasagnelevyä
 - [ ] 1dl juustoraastetta
 
 Bolognese-kastike:
