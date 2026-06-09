@@ -5,13 +5,6 @@
                     <img src="{{ recipe.cover }}" alt="{{ recipe.title }}" loading="lazy">
                 {% endif %}
             </a>
-            <div class="tag-pills">
-                {% if recipe.tags contains 'staples' %}
-                <span>perus</span>
-                {% endif %}
-                {% if recipe.tags contains 'storm' %}
-                <span>myrsky</span>
-                {% endif %}
-            </div>
+            {% include recipe_tags.html %}
         </li>
 
