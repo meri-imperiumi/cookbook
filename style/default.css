@@ -195,10 +195,14 @@ body.recipe .task-list-item input {
 main table th, main table td {
     text-align: left;
 }
+main table td {
+    font-size: smaller;
+    white-space: nowrap;
+}
 main ul.cards .tag-pills {
     position: absolute;
     bottom: -4ch;
-    right: 0px;
+    right: 4px;
 }
 body.recipe .tag-pills {
     float: right;
