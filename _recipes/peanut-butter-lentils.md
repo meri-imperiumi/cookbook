@@ -3,7 +3,7 @@ cover: ../files/peanut-butter-lentils.png
 category: curries
 tags:
   - staples
-title: Maapähkinävoi-linssi-curry
+title: Maapähkinävoi-curry
 ---
  ![](../files/peanut-butter-lentils.png)
 
