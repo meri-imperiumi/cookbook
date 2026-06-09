@@ -1,0 +1,846 @@
+condiments:
+  - name: balsamicoa
+    used_in:
+      - file: cashew-tomato-sauce.md
+        amount: 1 tl
+  - name: ketsuppia
+    used_in:
+      - file: macaroni-casserole.md
+        amount: ''
+  - name: leipäsiirappia
+    used_in:
+      - file: rye-bread.md
+        amount: 3 rkl
+  - name: puolukkahilloa
+    used_in:
+      - file: sauteed-tvp.md
+        amount: ''
+  - name: siirappia
+    used_in:
+      - file: toffee.md
+        amount: ½ dl
+  - name: sinappia
+    used_in:
+      - file: pea-soup.md
+        amount: ''
+  - name: sitruunamehua
+    used_in:
+      - file: chana-masala.md
+        amount: 1 tl
+      - file: peanut-butter-lentils.md
+        amount: 2rkl
+      - file: shahi-paneer.md
+        amount: 2 rkl
+      - file: tofu-curry.md
+        amount: ''
+  - name: srirachaa
+    used_in:
+      - file: tofu-fried-rice.md
+        amount: 1 rkl
+spices:
+  - name: basilikaa
+    used_in:
+      - file: bolognese.md
+        amount: ½ rkl
+      - file: cashew-tomato-sauce.md
+        amount: tuoretta
+      - file: lasagne.md
+        amount: ½ rkl
+      - file: pasta-al-pomodoro.md
+        amount: 2 tl
+      - file: pizza-on-pan.md
+        amount: 1 tl
+  - name: chilihiutaleita
+    used_in:
+      - file: aglio-e-olio.md
+        amount: ¼ tl
+      - file: bolognese.md
+        amount: 1 tl
+      - file: lasagne.md
+        amount: ½ tl
+      - file: lentil-balls.md
+        amount: ½ tl
+      - file: lentil-coconut-curry.md
+        amount: ¼ tl
+      - file: navy-bean-soup.md
+        amount: 1 tl
+      - file: oven-feta-pasta.md
+        amount: ½ tl
+  - name: chilijauhetta
+    used_in:
+      - file: chana-masala.md
+        amount: ½ tl
+      - file: lentil-balls.md
+        amount: 1 tl
+      - file: rajma-masala.md
+        amount: ½ tl
+      - file: shahi-paneer.md
+        amount: 1 tl
+      - file: tofu-curry.md
+        amount: ½ tl
+      - file: tofu-fried-rice.md
+        amount: ¼ tl
+  - name: curryjauhetta
+    used_in:
+      - file: chana-masala.md
+        amount: 2 tl
+      - file: dal.md
+        amount: 1 tl
+      - file: lentil-coconut-curry.md
+        amount: 1 rkl
+      - file: macaroni-casserole.md
+        amount: 1 tl
+      - file: pea-soup.md
+        amount: 1 tl
+      - file: tofu-curry.md
+        amount: 1 tl
+  - name: garam masalaa
+    used_in:
+      - file: chana-masala.md
+        amount: 1 tl
+      - file: dal.md
+        amount: ½ tl
+      - file: pea-soup.md
+        amount: 1 tl
+      - file: peanut-butter-lentils.md
+        amount: 1 tl
+      - file: rajma-masala.md
+        amount: ½ tl
+      - file: shahi-paneer.md
+        amount: 1 tl
+      - file: tofu-curry.md
+        amount: 1 rkl
+  - name: inkiväärijauhetta
+    used_in:
+      - file: chana-masala.md
+        amount: ½ tl
+      - file: peanut-butter-lentils.md
+        amount: 1 tl
+      - file: tofu-curry.md
+        amount: 1 tl
+  - name: jeeraa
+    used_in:
+      - file: lentil-balls.md
+        amount: 1 tl
+      - file: peanut-butter-lentils.md
+        amount: 1tl
+  - name: kanelia
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ''
+      - file: peanut-butter-lentils.md
+        amount: 1tl
+  - name: kardemummaa
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: 1 tl
+      - file: shahi-paneer.md
+        amount: 1 tl
+  - name: kasvislientä
+    used_in:
+      - file: bolognese.md
+        amount: 150 ml
+      - file: dal.md
+        amount: 0.8 l
+      - file: lasagne.md
+        amount: 125ml
+      - file: macaroni-casserole.md
+        amount: 150 ml
+      - file: mushroom-risotto.md
+        amount: 6dl
+      - file: navy-bean-soup.md
+        amount: 5dl
+      - file: pea-soup.md
+        amount: 0.8 l
+      - file: sauteed-tvp.md
+        amount: 1 dl
+  - name: korianteria
+    used_in:
+      - file: rajma-masala.md
+        amount: 1 tl
+      - file: shahi-paneer.md
+        amount: 1 tl
+  - name: korianterin siemeniä
+    used_in:
+      - file: dal.md
+        amount: 1 tl
+  - name: kuminaa
+    used_in:
+      - file: dal.md
+        amount: 1 tl
+      - file: navy-bean-soup.md
+        amount: ½ rkl
+      - file: rajma-masala.md
+        amount: ½ tl
+  - name: kurkumajauhetta
+    used_in:
+      - file: peanut-butter-lentils.md
+        amount: 1tl
+      - file: rajma-masala.md
+        amount: ¼ tl
+  - name: laakerinlehti
+    used_in:
+      - file: bolognese.md
+        amount: ''
+      - file: lasagne.md
+        amount: ''
+      - file: navy-bean-soup.md
+        amount: ''
+      - file: pizza-on-pan.md
+        amount: ''
+  - name: leivinjauhetta
+    used_in:
+      - file: oat-cookies.md
+        amount: 1 tl
+      - file: pizza-on-pan.md
+        amount: 1 tl
+  - name: maitojauhetta
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ½ dl
+      - file: pancakes.md
+        amount: 1 dl
+      - file: shahi-paneer.md
+        amount: 4 dl
+      - file: spinatch-pancakes.md
+        amount: 1 dl
+  - name: mustapippuria
+    used_in:
+      - file: carbonara.md
+        amount: 2tl
+      - file: cashew-tomato-sauce.md
+        amount: ''
+      - file: lentil-balls.md
+        amount: ''
+      - file: lentil-coconut-curry.md
+        amount: ''
+      - file: mushroom-risotto.md
+        amount: ½ tl
+      - file: mushroom-sherry-sauce.md
+        amount: 5ml
+      - file: navy-bean-soup.md
+        amount: ''
+      - file: oven-feta-pasta.md
+        amount: ½ tl
+      - file: pea-soup.md
+        amount: 1 tl
+      - file: sauteed-tvp.md
+        amount: '10'
+      - file: tofu-curry.md
+        amount: ½ tl
+      - file: tofu-fried-rice.md
+        amount: ¼ tl
+  - name: oreganoa
+    used_in:
+      - file: bolognese.md
+        amount: ½ rkl
+      - file: lasagne.md
+        amount: ½ rkl
+      - file: pizza-on-pan.md
+        amount: 1 tl
+  - name: paprikajauhetta
+    used_in:
+      - file: macaroni-casserole.md
+        amount: 1 tl
+      - file: tofu-fried-rice.md
+        amount: ½ tl
+  - name: persiljaa
+    used_in:
+      - file: aglio-e-olio.md
+        amount: ½ tl
+      - file: pasta-al-pomodoro.md
+        amount: 1 tl
+  - name: soijakastiketta
+    used_in:
+      - file: bolognese.md
+        amount: 2 rkl
+      - file: lasagne.md
+        amount: 1 rkl
+      - file: macaroni-casserole.md
+        amount: 2 rkl
+      - file: navy-bean-soup.md
+        amount: 1 tl
+      - file: pizza-on-pan.md
+        amount: 1 rkl
+      - file: sauteed-tvp.md
+        amount: 1/2 rkl
+      - file: tofu-fried-rice.md
+        amount: 1 rkl
+  - name: suolaa
+    used_in:
+      - file: aglio-e-olio.md
+        amount: 2 tl
+      - file: bolognese.md
+        amount: 1 tl
+      - file: cashew-tomato-sauce.md
+        amount: 2 tl
+      - file: cinnamon-rolls.md
+        amount: ½ tl
+      - file: dal.md
+        amount: ½ tl
+      - file: galette.md
+        amount: ½ tl
+      - file: lentil-balls.md
+        amount: ''
+      - file: lentil-coconut-curry.md
+        amount: ''
+      - file: macaroni-casserole.md
+        amount: ¾ tl
+      - file: mushroom-risotto.md
+        amount: ½ tl
+      - file: navy-bean-soup.md
+        amount: ''
+      - file: oven-feta-pasta.md
+        amount: ¼ tl
+      - file: pancakes.md
+        amount: 1 tl
+      - file: pasta-al-pomodoro.md
+        amount: 1 tl
+      - file: pea-soup.md
+        amount: 1 tl
+      - file: pizza-on-pan.md
+        amount: 0.5 tl
+      - file: rajma-masala.md
+        amount: 2 ml
+      - file: rye-bread.md
+        amount: 3 tl
+      - file: sauteed-tvp.md
+        amount: ½ tl
+      - file: shahi-paneer.md
+        amount: ½ tl
+      - file: spinatch-pancakes.md
+        amount: ½ tl
+      - file: tofu-curry.md
+        amount: 1 tl
+  - name: timjamia
+    used_in:
+      - file: bolognese.md
+        amount: ½ rkl
+      - file: lasagne.md
+        amount: ½ rkl
+      - file: mushroom-sherry-sauce.md
+        amount: 5ml
+      - file: navy-bean-soup.md
+        amount: ½ rkl
+      - file: pizza-on-pan.md
+        amount: 1 tl
+      - file: sauteed-tvp.md
+        amount: 2ml
+  - name: valkopippuria
+    used_in:
+      - file: macaroni-casserole.md
+        amount: ½ tl
+  - name: valkosipulijauhetta
+    used_in:
+      - file: lentil-balls.md
+        amount: 2 tl
+  - name: vaniljasokeria
+    used_in:
+      - file: oat-cookies.md
+        amount: ½ tl
+dry-goods:
+  - name: cashew-pähkinöitä
+    used_in:
+      - file: cashew-tomato-sauce.md
+        amount: 1 dl
+      - file: shahi-paneer.md
+        amount: 1 ½ dl
+  - name: fariinisokeria
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ''
+  - name: kaljamaltaita
+    used_in:
+      - file: rye-bread.md
+        amount: 2 dl
+  - name: kaurahiutaleita
+    used_in:
+      - file: lentil-balls.md
+        amount: 1 dl
+      - file: oat-cookies.md
+        amount: 2dl
+  - name: kermaa
+    used_in:
+      - file: mushroom-sherry-sauce.md
+        amount: 200ml
+      - file: rajma-masala.md
+        amount: 3 rkl
+      - file: toffee.md
+        amount: 2 dl
+  - name: kuivattua kanttarellia
+    used_in:
+      - file: cashew-tomato-sauce.md
+        amount: 1 dl
+  - name: kuivattua paprikaa
+    used_in:
+      - file: bolognese.md
+        amount: 2rkl
+  - name: kuivattua persiljaa
+    used_in:
+      - file: lentil-balls.md
+        amount: 1 rkl
+  - name: kuivattua pinaattia
+    used_in:
+      - file: spinatch-pancakes.md
+        amount: 2 dl
+  - name: kuivattuja herneitä
+    used_in:
+      - file: pea-soup.md
+        amount: 250 g
+  - name: kuivattuja kidney-papuja
+    used_in:
+      - file: rajma-masala.md
+        amount: 1.3 dl
+  - name: kuivattuja sieniä
+    used_in:
+      - file: mushroom-risotto.md
+        amount: 10g
+      - file: mushroom-sherry-sauce.md
+        amount: 1dl
+  - name: kuivattuja valkoisia papuja
+    used_in:
+      - file: navy-bean-soup.md
+        amount: 2.5dl
+  - name: kuivia kikherneitä
+    used_in:
+      - file: chana-masala.md
+        amount: 2.5dl
+  - name: lasagnelevyä
+    used_in:
+      - file: lasagne.md
+        amount: 7 kpl
+  - name: maissitärkkelystä
+    used_in:
+      - file: tofu-curry.md
+        amount: 1 rkl
+      - file: tofu-fried-rice.md
+        amount: 1 rkl
+  - name: makaronia
+    used_in:
+      - file: macaroni-casserole.md
+        amount: 3 dl
+  - name: manteleita
+    used_in:
+      - file: shahi-paneer.md
+        amount: 1 dl
+  - name: punaisia linssejä
+    used_in:
+      - file: dal.md
+        amount: 3.5dl
+      - file: lentil-balls.md
+        amount: 2.5dl
+      - file: lentil-coconut-curry.md
+        amount: 1.5 dl
+      - file: peanut-butter-lentils.md
+        amount: 2dl
+  - name: riisiä
+    used_in:
+      - file: shahi-paneer.md
+        amount: 2dl
+      - file: tofu-curry.md
+        amount: 2dl
+      - file: tofu-fried-rice.md
+        amount: 2.3 dl
+  - name: risotto-riisiä
+    used_in:
+      - file: mushroom-risotto.md
+        amount: 3dl
+  - name: ruisjauhoja
+    used_in:
+      - file: rye-bread.md
+        amount: 8 dl
+  - name: soijarouhetta
+    used_in:
+      - file: bolognese.md
+        amount: 150 ml
+      - file: lasagne.md
+        amount: 125ml
+      - file: macaroni-casserole.md
+        amount: 150 ml
+      - file: sauteed-tvp.md
+        amount: 2 dl
+  - name: sokeria
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ½ dl
+      - file: oat-cookies.md
+        amount: 1 dl
+      - file: oven-feta-pasta.md
+        amount: ½ tl
+      - file: pancakes.md
+        amount: 1 rkl
+      - file: toffee.md
+        amount: 1 ½ dl
+  - name: spagettia
+    used_in:
+      - file: aglio-e-olio.md
+        amount: 2 annosta
+      - file: bolognese.md
+        amount: 2 annosta
+      - file: cashew-tomato-sauce.md
+        amount: 2 annosta
+      - file: oven-feta-pasta.md
+        amount: 250 g
+      - file: pasta-al-pomodoro.md
+        amount: 2 annosta
+  - name: tattarijauhoa
+    used_in:
+      - file: galette.md
+        amount: 1 dl
+  - name: vehnäjauhoja
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: 5dl
+      - file: galette.md
+        amount: ¾ dl
+      - file: lasagne.md
+        amount: 3 rkl
+      - file: oat-cookies.md
+        amount: 1 rkl
+      - file: pancakes.md
+        amount: 2.5 dl
+      - file: pizza-on-pan.md
+        amount: 3.5 dl
+      - file: rye-bread.md
+        amount: 4 dl
+      - file: spinatch-pancakes.md
+        amount: 3 dl
+freshies:
+  - name: chili
+    used_in:
+      - file: peanut-butter-lentils.md
+        amount: '1'
+  - name: munaa
+    used_in:
+      - file: carbonara.md
+        amount: '4'
+      - file: cinnamon-rolls.md
+        amount: ½
+      - file: galette.md
+        amount: '1'
+      - file: lentil-balls.md
+        amount: '1'
+      - file: macaroni-casserole.md
+        amount: '2'
+      - file: oat-cookies.md
+        amount: '1'
+      - file: pancakes.md
+        amount: '2'
+      - file: spinatch-pancakes.md
+        amount: '3'
+      - file: tofu-fried-rice.md
+        amount: 2-3
+  - name: perunaa
+    used_in:
+      - file: sauteed-tvp.md
+        amount: 500g
+  - name: porkkanaa
+    used_in:
+      - file: bolognese.md
+        amount: '2'
+      - file: lasagne.md
+        amount: '1'
+      - file: macaroni-casserole.md
+        amount: '1'
+      - file: navy-bean-soup.md
+        amount: '2'
+      - file: pea-soup.md
+        amount: '2'
+      - file: tofu-curry.md
+        amount: '1'
+  - name: ruisjuurta
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: 60 g
+      - file: rye-bread.md
+        amount: 150 g
+  - name: sipuli
+    used_in:
+      - file: bolognese.md
+        amount: '1'
+      - file: chana-masala.md
+        amount: '1'
+      - file: dal.md
+        amount: '1'
+      - file: lasagne.md
+        amount: '1'
+      - file: lentil-balls.md
+        amount: '1'
+      - file: lentil-coconut-curry.md
+        amount: '1'
+      - file: macaroni-casserole.md
+        amount: '1'
+      - file: mushroom-risotto.md
+        amount: '1'
+      - file: mushroom-sherry-sauce.md
+        amount: '1'
+      - file: navy-bean-soup.md
+        amount: '1'
+      - file: pea-soup.md
+        amount: '1'
+      - file: peanut-butter-lentils.md
+        amount: '1'
+      - file: pizza-on-pan.md
+        amount: '1'
+      - file: rajma-masala.md
+        amount: '1'
+      - file: sauteed-tvp.md
+        amount: '1'
+      - file: shahi-paneer.md
+        amount: '1'
+      - file: tofu-curry.md
+        amount: '1'
+      - file: tofu-fried-rice.md
+        amount: '2'
+  - name: tuoretta inkivääriä
+    used_in:
+      - file: dal.md
+        amount: 2cm
+      - file: lentil-coconut-curry.md
+        amount: 4 cm
+      - file: rajma-masala.md
+        amount: 2.5cm
+      - file: shahi-paneer.md
+        amount: 2.5 cm
+      - file: tofu-fried-rice.md
+        amount: 1 cm
+  - name: valkosipulia
+    used_in:
+      - file: aglio-e-olio.md
+        amount: 6 kynttä
+      - file: bolognese.md
+        amount: 2 kynttä
+      - file: cashew-tomato-sauce.md
+        amount: 2 kynttä
+      - file: chana-masala.md
+        amount: 2 kynttä
+      - file: dal.md
+        amount: 4 kynttä
+      - file: lasagne.md
+        amount: 2 kynttä
+      - file: lentil-coconut-curry.md
+        amount: 4 kynttä
+      - file: navy-bean-soup.md
+        amount: 4 kynttä
+      - file: pasta-al-pomodoro.md
+        amount: 5 kynttä
+      - file: peanut-butter-lentils.md
+        amount: 3 kynsi
+      - file: pizza-on-pan.md
+        amount: 4 kynttä
+      - file: rajma-masala.md
+        amount: 4 kynttä
+      - file: tofu-fried-rice.md
+        amount: 2 kynttä
+cheeses:
+  - name: fetajuusto
+    used_in:
+      - file: oven-feta-pasta.md
+        amount: 200 g
+  - name: juustoraastetta
+    used_in:
+      - file: lasagne.md
+        amount: 1dl
+      - file: macaroni-casserole.md
+        amount: ''
+  - name: parmesania
+    used_in:
+      - file: aglio-e-olio.md
+        amount: raastettua
+      - file: bolognese.md
+        amount: raastettua
+      - file: carbonara.md
+        amount: 100g
+      - file: mushroom-risotto.md
+        amount: 1dl
+      - file: pasta-al-pomodoro.md
+        amount: raastettua
+cans:
+  - name: kiinteää tofua
+    used_in:
+      - file: tofu-curry.md
+        amount: 200 g
+      - file: tofu-fried-rice.md
+        amount: 200g
+  - name: kokonaisia tölkkitomaatteja
+    used_in:
+      - file: oven-feta-pasta.md
+        amount: 400g
+  - name: kookosmaitoa
+    used_in:
+      - file: lentil-coconut-curry.md
+        amount: 400g
+      - file: shahi-paneer.md
+        amount: 4dl
+      - file: tofu-curry.md
+        amount: 400ml
+  - name: maapähkinävoita
+    used_in:
+      - file: peanut-butter-lentils.md
+        amount: ½dl
+  - name: tomaattimurskaa
+    used_in:
+      - file: bolognese.md
+        amount: 400 g
+      - file: cashew-tomato-sauce.md
+        amount: 400g
+      - file: chana-masala.md
+        amount: 200g
+      - file: dal.md
+        amount: 400g
+      - file: lasagne.md
+        amount: 400g
+      - file: lentil-coconut-curry.md
+        amount: 400g
+      - file: navy-bean-soup.md
+        amount: 400g
+      - file: pasta-al-pomodoro.md
+        amount: 400 g
+      - file: pizza-on-pan.md
+        amount: 400g
+      - file: rajma-masala.md
+        amount: 250g
+  - name: tomaattipyrettä
+    used_in:
+      - file: bolognese.md
+        amount: 70 g
+      - file: cashew-tomato-sauce.md
+        amount: 1 rkl
+      - file: lasagne.md
+        amount: 80g
+      - file: peanut-butter-lentils.md
+        amount: 4rkl
+      - file: pizza-on-pan.md
+        amount: 70g
+      - file: shahi-paneer.md
+        amount: 1 dl
+      - file: tofu-curry.md
+        amount: 70 g
+  - name: voita
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ''
+      - file: galette.md
+        amount: ''
+      - file: lasagne.md
+        amount: 1.5 rkl
+      - file: mushroom-risotto.md
+        amount: 1 rkl
+      - file: mushroom-sherry-sauce.md
+        amount: ''
+      - file: oat-cookies.md
+        amount: 50g
+      - file: sauteed-tvp.md
+        amount: 2 rkl
+      - file: shahi-paneer.md
+        amount: nokare
+      - file: spinatch-pancakes.md
+        amount: ½ dl
+      - file: toffee.md
+        amount: 25 g
+      - file: tofu-curry.md
+        amount: nokare
+oils:
+  - name: kookosöljyä
+    used_in:
+      - file: dal.md
+        amount: 1 rkl
+      - file: lentil-coconut-curry.md
+        amount: 2 rkl
+      - file: rajma-masala.md
+        amount: 3 rkl
+      - file: shahi-paneer.md
+        amount: 3 rkl
+      - file: tofu-curry.md
+        amount: 1 ½ rkl
+  - name: oliiviöljyä
+    used_in:
+      - file: aglio-e-olio.md
+        amount: 3 rkl
+      - file: bolognese.md
+        amount: 1 rkl
+      - file: cashew-tomato-sauce.md
+        amount: 1 rkl
+      - file: chana-masala.md
+        amount: 1 rkl
+      - file: lasagne.md
+        amount: 1 rkl
+      - file: lentil-balls.md
+        amount: ''
+      - file: macaroni-casserole.md
+        amount: 1 rkl
+      - file: mushroom-risotto.md
+        amount: 1 rkl
+      - file: navy-bean-soup.md
+        amount: 1 rkl
+      - file: oven-feta-pasta.md
+        amount: 2 rkl
+      - file: pasta-al-pomodoro.md
+        amount: 4 rkl
+      - file: pizza-on-pan.md
+        amount: 3 rkl
+  - name: rypsiöljyä
+    used_in:
+      - file: pea-soup.md
+        amount: 3 rkl
+      - file: peanut-butter-lentils.md
+        amount: ''
+      - file: tofu-fried-rice.md
+        amount: 2 rkl
+drinks:
+  - name: maitoa
+    used_in:
+      - file: galette.md
+        amount: 1 ½ dl
+      - file: lasagne.md
+        amount: 5dl
+      - file: macaroni-casserole.md
+        amount: 5 dl
+      - file: sauteed-tvp.md
+        amount: 3dl
+  - name: olutta
+    used_in:
+      - file: sauteed-tvp.md
+        amount: 2 ½ dl
+  - name: sherryä
+    used_in:
+      - file: mushroom-sherry-sauce.md
+        amount: 1/2dl
+  - name: valkoviiniä
+    used_in:
+      - file: bolognese.md
+        amount: ''
+      - file: mushroom-risotto.md
+        amount: 1 dl
+      - file: pizza-on-pan.md
+        amount: ½ dl
+  - name: vettä
+    used_in:
+      - file: aglio-e-olio.md
+        amount: 1 ½ litraa
+      - file: bolognese.md
+        amount: 1 litraa
+      - file: cashew-tomato-sauce.md
+        amount: 1 ½ litraa
+      - file: chana-masala.md
+        amount: 1dl
+      - file: cinnamon-rolls.md
+        amount: 1 ½ dl
+      - file: galette.md
+        amount: 1 ½ dl
+      - file: lentil-coconut-curry.md
+        amount: 6 dl
+      - file: pancakes.md
+        amount: 4 dl
+      - file: pasta-al-pomodoro.md
+        amount: 1 litraa
+      - file: pizza-on-pan.md
+        amount: 1.5 dl
+      - file: rye-bread.md
+        amount: 5 dl
+      - file: shahi-paneer.md
+        amount: 4 dl
+      - file: spinatch-pancakes.md
+        amount: 5 dl
+      - file: tofu-curry.md
+        amount: 4 dl

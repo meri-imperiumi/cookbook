@@ -1,0 +1,25 @@
+---
+layout: default
+title: Ainesosat
+---
+<h1>{{ page.title }}</h1>
+
+<p>
+Näihin peruselintarvikkeisiin perustuu veneen pitkänmatkan muonitus. Ne riittävät kaikkien perusruokien tekemiseen. Näiden lisäksi meillä on reseptejä niille päiville kun saamme myös muita tuoreita aineksia.
+</p>
+
+<table>
+{% for category in site.data.ingredients %}
+    {% assign category_name = category[0] %}
+    {% assign category_ingredients = category[1] %}
+    <tr>
+        <th colspan="2"><h2>{{ site.data.category_translations[category_name] }}</h2></th>
+    </tr>
+    {% for ingredient in category_ingredients %}
+    <tr>
+        <th>{{ ingredient.name }}</th>
+        <td>{{ ingredient.used_in | size }} reseptissä</td>
+    </tr>
+    {% endfor %}
+{% endfor %}
+</table>

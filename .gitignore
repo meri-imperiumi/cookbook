@@ -5,3 +5,6 @@ _site/
 Gemfile.lock
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+node_modules/
+package-lock.json
+package.json

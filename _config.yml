@@ -16,8 +16,12 @@ collections:
 exclude:
     - .github
     - .gitignore
-    - .Gemfile
+    - Gemfile
+    - Gemfile.lock
     - README.md
     - "*.base"
     - .obsidian
     - _templates
+    - package.json
+    - package-lock.json
+    - node_modules
