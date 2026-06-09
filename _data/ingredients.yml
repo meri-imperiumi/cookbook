@@ -292,6 +292,8 @@ spices:
         amount: ''
       - file: oven-feta-pasta.md
         amount: ¼ tl
+      - file: overnight-oats.md
+        amount: 5ml
       - file: pancakes.md
         amount: 1 tl
       - file: pasta-al-pomodoro.md
@@ -359,6 +361,8 @@ dry-goods:
         amount: 1 dl
       - file: oat-cookies.md
         amount: 2dl
+      - file: overnight-oats.md
+        amount: 1dl
   - name: kermaa
     used_in:
       - file: mushroom-sherry-sauce.md
@@ -830,6 +834,8 @@ drinks:
         amount: 1 ½ dl
       - file: lentil-coconut-curry.md
         amount: 6 dl
+      - file: overnight-oats.md
+        amount: 2dl
       - file: pancakes.md
         amount: 4 dl
       - file: pasta-al-pomodoro.md
