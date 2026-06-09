@@ -2,6 +2,8 @@
 cover: ../files/karelian-pasties.jpg
 category: bread
 title: Karjalanpiirakat
+tags:
+  - celebration
 ---
 ![](../files/karelian-pasties.jpg)
 
@@ -12,7 +14,7 @@ Kuoritaikina:
 - [ ] 3 dl ruisjauhoja  
 - [ ] 1 dl vehnäjauhoja
 
-Täyte  
+Täyte:
 - [ ] 3 dl vettä  
 - [ ] 2 dl riisiä  
 - [ ] 7 dl maitoa  
@@ -24,7 +26,7 @@ Täyte
 3. Mausta valmis puuro suolalla ja jäähdytä se.  
 4. Sekoita jäähtyneeseen puuroon muna.  
    Piirakoiden valmistaminen:  
-5. Sekoita  kylmään veteen, öljy,  suola ja jauhot puuhaarukalla. Vaivaa taikina sileäksi ja kiinteäksi.  
+5. Sekoita  kylmään veteen, öljy,  suola ja jauhot puuhaarukalla. Vaivaa taikina sileäksi ja kiinteäksi. 
 6. Ripottele pöydälle ruis- ja vehnäjauhoseosta ja kaada taikina jauhojen päälle. Kaulitse taikinasta noin 1/2 cm:n paksuinen levy.  
 7. Painele levystä juomalasilla kakkaroita.  
 8. Aseta kakkarat kuuden kappaleen pinoihin, etteivät ne kuivu. Peitä pinot muovipussilla tai kulholla.  
