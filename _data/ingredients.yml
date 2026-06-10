@@ -200,16 +200,6 @@ spices:
         amount: 1 tl
       - file: pizza-on-pan.md
         amount: 1 tl
-  - name: maitojauhetta
-    used_in:
-      - file: cinnamon-rolls.md
-        amount: ½ dl
-      - file: pancakes.md
-        amount: 1 dl
-      - file: shahi-paneer.md
-        amount: 4 dl
-      - file: spinatch-pancakes.md
-        amount: 1 dl
   - name: mustapippuria
     used_in:
       - file: carbonara.md
@@ -419,6 +409,16 @@ dry-goods:
         amount: 1 rkl
       - file: tofu-fried-rice.md
         amount: 1 rkl
+  - name: maitojauhetta
+    used_in:
+      - file: cinnamon-rolls.md
+        amount: ½ dl
+      - file: pancakes.md
+        amount: 1 dl
+      - file: shahi-paneer.md
+        amount: 4 dl
+      - file: spinatch-pancakes.md
+        amount: 1 dl
   - name: makaronia
     used_in:
       - file: macaroni-casserole.md

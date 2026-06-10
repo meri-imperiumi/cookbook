@@ -214,6 +214,7 @@ readdir(fileDir)
                 case 'kaljamaltaita':
                 case 'kaurahiutaleita':
                 case 'soijarouhetta':
+                case 'maitojauhetta':
                     category = 'dry-goods';
                     break;
                 case 'parmesania':
