@@ -1,0 +1,33 @@
+---
+layout: default
+title: Perusreseptit
+---
+<h1>Perusreseptit</h1>
+<p>
+Nämä ovat veneen perusreseptit. Pyrimme siihen että meillä on aina veneessä <a href="{{ site.baseurl }}/ingredients/">aineksia</a> näiden tekemiseen vaikka matka olisi pidempikin.
+</p>
+
+{% assign categories = site.recipes | map: 'category' | uniq %}
+{% for category in categories %}
+    {% if category == 'ingredients' or category == 'drinks' %}
+        {% continue %}
+    {% endif %}
+    {% assign category_recipes = "" | split: "" %}
+    {% assign recipes = site.recipes | where: 'category', category | sort: 'title' %}
+    {% for recipe in recipes %}
+        {% if recipe.tags contains 'staples' %}
+            {% assign category_recipes = recipes | slice: forloop.index0 | concat: category_recipes %}
+        {% endif %}
+    {% endfor %}
+    {% assign category_recipes = category_recipes | reverse %}
+    {% for recipe in category_recipes %}
+        {% if forloop.first %}
+    <h2>{{ site.data.category_translations[category] }}</h2>
+    <ul class="cards">
+        {% endif %}
+        {% include recipe_card.html %}
+        {% if forloop.last %}
+    </ul>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
