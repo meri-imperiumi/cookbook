@@ -24,6 +24,8 @@ views:
         - '!file.tags.contains("soak")'
         - '!file.tags.contains("elaborate")'
         - '!file.tags.contains("dessert")'
+        - category != "bread"
+        - category != "porridges"
     groupBy:
       property: category
       direction: ASC
@@ -57,7 +59,7 @@ views:
 
 ## Kovan sään sapuskat
 
-Tässä on ruokia pahan päivän varalle.
+Tässä on helppoja ruokia pahan päivän varalle.
 ```base
 filters:
   and:
