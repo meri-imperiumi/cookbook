@@ -31,3 +31,5 @@ tags:
 4. Lisää pavut, tomaatit, liemi, soijakastike ja laakerinlehti. Anna kiehahtaa. Hauduta 90 minuutin ajan (45min painekattilassa)  
 5. Poista laakerinlehti kun pavut ovat silkkisen pehmeitä.  
 6. Maista ja lisää suolaa tarvittaessa
+
+Peruna tai bataatti toimii hyvänä lisänä keitossa.

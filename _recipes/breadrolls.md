@@ -5,6 +5,13 @@ title: Sämpylät
 ---
 ![](../files/breadrolls.png)
 
+ - [ ] 3 dl vettä
+ - [ ] 1/2 tl kuivahiivaa
+ - [ ] 1 tl suolaa
+ - [ ] 1/2 rkl siirappia tai hunajaa
+ - [ ] 25 g voita tai öljyä
+ - [ ] 6 dl vehnäjauhoja
+
 1. Lämmitä neste 42-asteiseksi.  
 2. Sekoita kuivahiiva pieneen määrään jauhoja ja lisää veteen.  
 3. Lisää hunaja tai siirappi ja suola.   

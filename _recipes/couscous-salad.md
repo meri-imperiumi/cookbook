@@ -1,7 +1,7 @@
 ---
 cover: ../files/couscous-salad.jpg
 category: salads
-title: Miisan cous cous salaatti
+title: Miisan couscous salaatti
 aliases:
   - cous-cous-salad
   - miisas-cous-cous-salad

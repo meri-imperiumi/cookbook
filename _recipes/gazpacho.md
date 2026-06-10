@@ -18,7 +18,7 @@ title: Gazpacho
 
 Tämä on yhden hengen annos joka mahtuu veneen blenderiin
 
-1. Laita tomaatti ja puolet aineista blenderiin  
+1. Laita tomaatti ja puolet aineista blenderiin
 2. Aja kunnes nestemäistä  
 3. Lisää loput ainekset  
 4. Aja kunnes nestemäistä  
