@@ -3,7 +3,6 @@ cover: ../files/galette.png
 category: pancakes
 title: Galette
 tags:
-  - staples
   - elaborate
 ---
 ![](../files/galette.png)

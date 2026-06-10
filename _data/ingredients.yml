@@ -286,8 +286,6 @@ spices:
         amount: ½ tl
       - file: dal.md
         amount: ½ tl
-      - file: galette.md
-        amount: ½ tl
       - file: lentil-balls.md
         amount: ''
       - file: lentil-coconut-curry.md
@@ -489,16 +487,10 @@ dry-goods:
         amount: 250 g
       - file: pasta-al-pomodoro.md
         amount: 2 annosta
-  - name: tattarijauhoa
-    used_in:
-      - file: galette.md
-        amount: 1 dl
   - name: vehnäjauhoja
     used_in:
       - file: cinnamon-rolls.md
         amount: 5dl
-      - file: galette.md
-        amount: ¾ dl
       - file: lasagne.md
         amount: 3 rkl
       - file: oat-cookies.md
@@ -522,8 +514,6 @@ freshies:
         amount: '4'
       - file: cinnamon-rolls.md
         amount: ½
-      - file: galette.md
-        amount: '1'
       - file: lentil-balls.md
         amount: '1'
       - file: macaroni-casserole.md
@@ -726,8 +716,6 @@ cans:
     used_in:
       - file: cinnamon-rolls.md
         amount: ''
-      - file: galette.md
-        amount: ''
       - file: lasagne.md
         amount: 1.5 rkl
       - file: mushroom-risotto.md
@@ -796,8 +784,6 @@ oils:
 drinks:
   - name: maitoa
     used_in:
-      - file: galette.md
-        amount: 1 ½ dl
       - file: lasagne.md
         amount: 5dl
       - file: macaroni-casserole.md
@@ -831,8 +817,6 @@ drinks:
       - file: chana-masala.md
         amount: 1dl
       - file: cinnamon-rolls.md
-        amount: 1 ½ dl
-      - file: galette.md
         amount: 1 ½ dl
       - file: lentil-coconut-curry.md
         amount: 6 dl
