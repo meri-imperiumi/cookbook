@@ -1,5 +1,5 @@
 ---
-cover: ../files/cashew-tomato-sauce.png
+cover: ../files/cashew-tomato-sauce.jpg
 category: pasta
 title: Cashew-tomaattipasta
 tags:
@@ -7,7 +7,7 @@ tags:
 aliases:
   - cashew-tomato-pasta
 ---
-![](../files/cashew-tomato-sauce.png)
+![](../files/cashew-tomato-sauce.jpg)
 
 - [ ] 2 annosta spagettia  
 - [ ] 400g tomaattimurskaa
