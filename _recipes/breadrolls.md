@@ -1,9 +1,9 @@
 ---
-cover: ../files/breadrolls.png
+cover: ../files/breadrolls.jpg
 category: bread
 title: Sämpylät
 ---
-![](../files/breadrolls.png)
+![](../files/breadrolls.jpg)
 
  - [ ] 3 dl vettä
  - [ ] 1/2 tl kuivahiivaa
