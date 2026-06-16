@@ -2,6 +2,8 @@
 category: casseroles
 title: Moussaka
 cover: ../files/moussaka.png
+tags:
+  - elaborate
 ---
  ![](../files/moussaka.png)
 
