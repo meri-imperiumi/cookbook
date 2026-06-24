@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "_recipes",
-  "openBehavior": "file:README"
+  "openBehavior": "file:README",
+  "alwaysUpdateLinks": true
 }
