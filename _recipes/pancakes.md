@@ -1,5 +1,5 @@
 ---
-cover: ../files/pancakes.png
+cover: ../files/pancakes.jpg
 title: Mumman letut
 category: pancakes
 tags:
@@ -10,7 +10,7 @@ aliases:
   - crepes
   - crepes-with-vegetables
 ---
-![](../files/pancakes.png)
+![](../files/pancakes.jpg)
 
 - [ ] 2 munaa  
 - [ ] 1 dl maitojauhetta  
