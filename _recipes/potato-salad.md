@@ -21,15 +21,16 @@ MAJONEESI:
 - [ ] 2 rkl vettä (käden lämpöistä)
 
 ESIVALMISTELUT
-1. Keitä perunat suolavedessä (1 tl suolaa / litra vettä)  
-2. Anna perunoiden jäähtyä  
+1. Keitä perunat suolavedessä (1 tl suolaa / litra vettä)    
+2. Painekeittimessä: Pane perunat painekeittimeen, jonka pohjalla on 1–1.5dl suolattua vettä. Sulje keitin. Kun paine on noussut, keitä 10 minuuttia. Avaa kansi, kun höyrypaine on laskenut.
+3. Anna perunoiden jäähtyä
 
 MAJONEESI  
 1. Sekoita keltuainen, suola, valkopippuri sinappi ja valkoviinietikka keskenään.  
 2. Vatkaa joukkoon öljy. Aloita öljyn lisääminen hyvin varovasti ja lisää loput öljystä vähän kerrallaan koko ajan vatkaten. Jos majoneesi on tymäkkää, notkistamiseen voi käyttää muutaman ruokalusikallisen lämmitettyä kädenlämpöistä vettä.  
 
 SALAATTI  
-1. Kuori ja kuutioi keitetyt jäähtyneet perunat  
+1. Kuori ja kuutioi keitetyt jäähtyneet perunat 
 2. Hienonna sipuli  
 3. Kuutioi maustekurkku  
 4. Lisää majoneesi  
