@@ -1,9 +1,9 @@
 ---
 category: drinks
 title: Inkivääriolut v8
-cover: ../files/ginger-beer.png
+cover: ../files/ginger-beer.jpg
 ---
-![](../files/ginger-beer.png)
+![](../files/ginger-beer.jpg)
 
 - [ ] 800g tuoretta inkivääriä   
 - [ ] 1200g sokeria  
