@@ -24,3 +24,27 @@ Näihin peruselintarvikkeisiin perustuu veneen pitkänmatkan muonitus. Ne riitt�
 {% endfor %}
 </table>
 <hr />
+
+<h2>Ainesreseptejä</h2>
+{% assign recipes = site.recipes | where: 'category', 'ingredients' | sort: 'title' %}
+{% for recipe in recipes %}
+        {% if forloop.first %}
+    <ul class="cards">
+        {% endif %}
+        {% include recipe_card.html %}
+        {% if forloop.last %}
+    </ul>
+        {% endif %}
+{% endfor %}
+
+<h2>Juomareseptejä</h2>
+{% assign recipes = site.recipes | where: 'category', 'drinks' | sort: 'title' %}
+{% for recipe in recipes %}
+        {% if forloop.first %}
+    <ul class="cards">
+        {% endif %}
+        {% include recipe_card.html %}
+        {% if forloop.last %}
+    </ul>
+        {% endif %}
+{% endfor %}

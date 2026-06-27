@@ -1,5 +1,5 @@
 ---
-cover: ../files/recipe.png
+cover: ../files/harissa.jpg
 category: ingredients
 title: Harissa
 tags:
