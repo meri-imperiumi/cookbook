@@ -20,3 +20,5 @@ tags:
 9. Valuta juustokankaan läpi.
 10. Purut voi tämän jälkeen laittaa jääkaappiin ja käyttää leivontaan.
 11. Toista kunnes kookosliha on käytetty
+
+Jäljelle jäävä kookoshiutale sopii mm. [granolan](granola.md) tekoon.
