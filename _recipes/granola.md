@@ -6,7 +6,7 @@ tags:
 ---
 ![](../files/granola.jpg)
 - [ ] 2dl kaurahiutaleita
-- [ ] 2dl kookoshiutaleita
+- [ ] 1dl kookoshiutaleita
 - [ ] 0.5dl voita tai kookosöljyä
 - [ ] 1dl sokeria
 - [ ] 0.5dl hunajaa
