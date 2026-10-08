@@ -10,7 +10,7 @@ tags:
 ---
  ![offset\_355676.jpg](../files/navy-bean-soup.png)
 
-- [ ] 2.5dl kuivattuja valkoisia papuja (iotettuina) 
+- [ ] 2.5dl kuivattuja valkoisia papuja (liotettuina) 
 - [ ] 400g tomaattimurskaa 
 - [ ] 1 sipuli
 - [ ] 4 kynttä valkosipulia
@@ -25,7 +25,7 @@ tags:
 - [ ] Suolaa  
 - [ ] 1 rkl oliiviöljyä
 
-1. Laita pavut kokoamaan edellisenä päivänä  
+1. Laita pavut kostumaan edellisenä päivänä
 2. Paista sipuli, valkosipuli ja porkkanat oliiviöljyssä kattilan pohjalla kunnes pehmeitä  
 3. Lisää mausteet ja paista hetki  
 4. Lisää pavut, tomaatit, liemi, soijakastike ja laakerinlehti. Anna kiehahtaa. Hauduta 90 minuutin ajan (45min painekattilassa)  

@@ -24,7 +24,7 @@ aliases:
 1. Murskaa valkosipuli ja pilko sipuli hienoksi  
 2. Paista molemmat keskilämmöllä oliiviöljyssä kunnes sipulit ovat pehmenneet (noin 5 minuuttia)  
 3. Lisää tölkkitomaatit pannulla. Pilko tomaateista paloja puulastalla.   
-4. Lisää savustettu paprika, kumina, oregano ja chilihiutaleet. Sekkoita.  
+4. Lisää savustettu paprika, kumina, oregano ja chilihiutaleet. Sekoita.  
 5. Anna kastikkeen hautua välillä sekoittaen (noint 7 minuuttia) tai kunnes kastike hieman tiivistyy  
 6. Kaiva lastalla kananmunille pienet kolot ja riko munat kastikkeen joukkoon.  
 7. Anna munien paistua noin 5 minuuttia tai kunnes valkuaiset ovat hyytyneet kunnolla.  
